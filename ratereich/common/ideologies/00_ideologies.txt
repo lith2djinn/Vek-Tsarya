@@ -1,4 +1,118 @@
 ideologies = {
+
+	vanguard_socialism = {
+		
+		types = {
+		
+			de_leonism = {
+			}
+			
+			national_vanguardism = {
+			}
+			
+			blanquism = {
+			}
+			
+			bolshevism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 255 0 0 }
+		
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+		}
+		
+		modifiers = {
+		}
+		
+	}
+
+	libertarian_socialism = {
+		
+		types = {
+		
+			anarcho_syndicalism = {
+			}
+			
+			council_communism = {
+			}
+			
+			anarcho_communism= {
+			}
+			
+			mutualism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 255 70 70 }
+		
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+		}
+		
+		modifiers = {
+		}
+
+	}
+
+	revisionist_socialism = {
+		
+		types = {
+		
+			guild_socialism = {
+			}
+			
+			christian_socialism = {
+			}
+			
+			democratic_socialism = {
+			}
+			
+			agrarian_socialism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+		}
+		
+		color = { 140 0 0 }
+		
+		war_impact_on_world_tension = 1.0
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+		}
+		
+		modifiers = {
+		}
+
+	}
 	
 	social_democratism = {
 	
@@ -146,120 +260,6 @@ ideologies = {
 		}
 
 		ai_democratic = yes # uses the democratic AI behaviour
-	}
-
-	vanguard_socialism = {
-		
-		types = {
-		
-			de_leonism = {
-			}
-			
-			national_vanguardism = {
-			}
-			
-			blanquism = {
-			}
-			
-			bolshevism = {
-			}
-		}
-		
-		dynamic_faction_names = {
-		}
-		
-		color = { 255 0 0 }
-		
-		war_impact_on_world_tension = 1.0
-		faction_impact_on_world_tension = 0.5
-		
-		ai_communist = yes # uses the commie AI behaviour
-		
-		rules = {
-			can_force_government = no
-			can_send_volunteers = yes
-			can_puppet = no
-		}
-		
-		modifiers = {
-		}
-		
-	}
-
-	libertarian_socialism = {
-		
-		types = {
-		
-			anarcho_syndicalism = {
-			}
-			
-			council_communism = {
-			}
-			
-			anarcho_communism= {
-			}
-			
-			mutualism = {
-			}
-		}
-		
-		dynamic_faction_names = {
-		}
-		
-		color = { 255 70 70 }
-		
-		war_impact_on_world_tension = 1.0
-		faction_impact_on_world_tension = 0.5
-		
-		ai_communist = yes # uses the commie AI behaviour
-		
-		rules = {
-			can_force_government = no
-			can_send_volunteers = yes
-			can_puppet = no
-		}
-		
-		modifiers = {
-		}
-
-	}
-
-	revisionist_socialism = {
-		
-		types = {
-		
-			guild_socialism = {
-			}
-			
-			christian_socialism = {
-			}
-			
-			democratic_socialism = {
-			}
-			
-			agrarian_socialism = {
-			}
-		}
-		
-		dynamic_faction_names = {
-		}
-		
-		color = { 140 0 0 }
-		
-		war_impact_on_world_tension = 1.0
-		faction_impact_on_world_tension = 0.5
-		
-		ai_communist = yes # uses the commie AI behaviour
-		
-		rules = {
-			can_force_government = no
-			can_send_volunteers = yes
-			can_puppet = no
-		}
-		
-		modifiers = {
-		}
-
 	}
 
 	right_authoritarianism = {

@@ -1,0 +1,80 @@
+﻿capital = 195
+
+oob = "SOV_1936"
+
+set_research_slots = 4
+
+add_ideas = {
+	victor_in_the_velikaya_voyna
+	monopolized_industry
+	unstable_political_system
+}
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1		
+	tech_recon = 1
+	tech_engineers = 1
+	motorised_infantry = 1
+	early_fighter = 1
+	trench_warfare = 1
+
+}
+
+
+
+
+set_politics = {
+
+	parties = {
+		vanguard_socialism = {
+			popularity = 1
+		}
+		libertarian_socialism = {
+			popularity = 1
+		}
+		revisionist_socialism = {
+			popularity = 1
+		}
+		social_democratism = {
+			popularity = 11
+		}
+		social_liberalism = {
+			popularity = 27
+		}
+		market_liberalism = {
+			popularity = 14
+		}
+		social_conservatism = {
+			popularity = 23
+		}
+		right_authoritarianism = {
+			popularity = 12
+		}
+		reactionaryism = {
+			popularity = 5
+		}
+		revolutionary_nationalism = {
+			popularity = 5
+		}
+	}
+	
+	ruling_party = social_liberalism
+	last_election = "1933.10.25"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_national_unity = 0.6
+
+create_country_leader = {
+	name = "Alexei II"
+	desc = "POLITICS_ALEXEI_II_DESC"
+	picture = "Portrait_Russia_Alexei.dds"
+	expire = "1965.1.1"
+	ideology = centrism
+	traits = {
+		popular_figurehead
+	}
+} 

@@ -1,0 +1,44 @@
+ideas = {
+	country = {
+		victor_in_the_velikaya_voyna = {
+			picture = ENG_the_war_to_end_all_wars
+			allowed = {
+				original_tag = SOV
+			}
+			removal_cost = -1
+			modifier = {
+				conscription_factor = -0.2
+				army_morale_factor = -0.1
+				training_time_factor = 0.5
+			}
+		}
+		monopolized_industry = {
+			picture = great_depression
+			allowed = {
+				original_tag = SOV
+			}
+			removal_cost = -1
+			modifier = {
+				industrial_capacity_factory = -0.10
+				industrial_capacity_dockyard = -0.10
+				consumer_goods_factor = 0.15
+				research_time_factor = 0.05
+			}
+		}
+		unstable_political_system = {
+			picture = generic_disjointed_gov
+			allowed = {
+				original_tag = SOV
+			}
+			removal_cost = -1
+			modifier = {
+				political_power_cost = 0.5
+				unity_factor = -0.05
+				political_advisor_cost_factor = 0.25
+				trade_laws_cost_factor = 0.25
+				mobilization_laws_cost_factor = 0.25
+				economy_cost_factor = 0.25
+			}
+		}
+	}
+}

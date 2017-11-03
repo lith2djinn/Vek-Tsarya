@@ -1,0 +1,107 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = yes
+
+		"SOV"={
+			history = "RUSSIAN_EMPIRE_DESC"
+			ideology = social_liberalism
+			ideas = {
+				victor_in_the_velikaya_voyna
+				monopolized_industry
+				unstable_political_system
+			}
+			focuses = {
+
+			}	
+		}
+
+		"GER"={
+			history = "GER_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+				sour_loser
+				general_staff
+			}
+			focuses = {
+				GER_anschluss
+				GER_danzig_or_war
+				GER_ussr_war_goal
+			}
+		}
+		"FRA"={
+			history = "FRA_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_initiate_government_reform
+				FRA_support_status_quo
+				FRA_revise_versailles
+			}
+		}
+		"ENG"={
+			history = "ENG_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				stiff_upper_lip
+				ENG_the_war_to_end_all_wars
+				george_v
+			}
+			focuses = {
+				tizard_mission_focus
+				ENG_war_with_germany
+				ENG_war_with_italy
+			}
+		}
+		"ITA"={
+			history = "ITA_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+				vittoria_mutilata
+				victor_emmanuel
+			}	
+			focuses = {
+				ITA_pact_of_steel
+				ITA_spanish_italian_faction
+				ITA_italy_first
+			}		
+		}
+		"USA"={
+			history = "USA_GATHERING_STORM_DESC"
+			ideology = democratic
+			ideas = {
+				home_of_the_free
+				great_depression
+				undisturbed_isolation
+			}
+			focuses = {
+				USA_war_plan_black
+				USA_strike_at_the_empire
+				USA_pearl_harbor_gambit
+			}
+		}
+		"JAP"={
+			history = "JAP_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+				state_shintoism
+			}	
+			focuses = {
+				southern_expansion_focus
+				divine_wind_focus
+				found_own_faction_focus
+			}			
+		}
+
+
+		"---"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
