@@ -1,0 +1,26 @@
+state=
+{
+	id=789
+	name="STATE_789" # Sichuan
+	manpower = 15591736
+
+	state_category = town
+
+	resources={
+		oil = 3
+	}
+	history=
+	{
+		owner = YUN
+		add_core_of = YUN
+
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+
+	}
+	provinces={
+		2067 4999 7294 10726 11972 12705 12819
+	}
+}

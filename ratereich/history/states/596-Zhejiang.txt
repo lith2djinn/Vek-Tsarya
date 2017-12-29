@@ -1,47 +1,30 @@
-
-state={
+state=
+{
 	id=596
 	name="STATE_596"
-
-	history={
-		owner = GXC
+	manpower = 9419685
+	state_category = large_town
+	history=
+	{
+		owner = KMT
 		add_core_of = CHI
-		add_core_of = GXC
+		add_core_of = KMT
+
 		victory_points = {
-			9974 1 
-		}
-		victory_points = {
-			7191 1 
+			1055 1
 		}
 		buildings = {
 			infrastructure = 4
-			7191 = {
-				naval_base = 1
-				coastal_bunker = 1
-				bunker = 1
-
-			}
-			9974 = {
-				naval_base = 3
-				coastal_bunker = 1
-				bunker = 1
-
-			}
+			industrial_complex = 2
 			1055 = {
 				naval_base = 3
 				coastal_bunker = 1
 				bunker = 1
-
 			}
-
 		}
 
 	}
-
 	provinces={
-		1055 1168 1195 4013 4099 7086 7146 7174 9944 9972 10086 11920 11947 12059 
+		1055 1168 1195 4013 4099 7086 7146 7174 9944 9972 10086 11920 11947 12059
 	}
-	manpower=21230700
-	buildings_max_level_factor=1.000
-	state_category=city
 }

@@ -2,24 +2,29 @@
 state={
 	id=715
 	name="STATE_715"
+	resources={
+		steel=20.000
+	}
 
 	history={
-		owner = SOV
-		add_core_of = CHI
-		add_core_of = SOV
+		owner = JAP
+		add_core_of = MAN
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
+			arms_factory = 3
 			industrial_complex = 1
 
+		}
+		victory_points = {
+			1150 1
 		}
 
 	}
 
 	provinces={
-		1508 1558 1627 3978 4561 7812 10429 11903 12337 12469 12478 
+		846 11764 9781 892 836 916 930 987 3849 3895 4642 6804 6893 6951 9788 9831 9885 11771 11808 11815 11836
 	}
-	manpower=3643373
+	manpower=8328866
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=large_town
 }

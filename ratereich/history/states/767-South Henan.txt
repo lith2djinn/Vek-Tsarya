@@ -1,0 +1,18 @@
+state={
+	id=767
+	name="STATE_767"
+        state_category = town
+	history=
+	{
+		owner = BYJ
+		add_core_of = BYJ
+		buildings = {
+			infrastructure = 3
+		}
+}
+	provinces={
+		4519 4547 7459 7568 10434 10446 12426 
+	}
+	manpower=8911150
+	buildings_max_level_factor=1.000
+}

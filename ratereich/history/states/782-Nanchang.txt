@@ -1,0 +1,20 @@
+state=
+{
+	id=782
+	name="STATE_782"
+	manpower = 1645334
+	state_category = city
+	history=
+	{
+		owner = KMT
+		add_core_of = KMT
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+	}
+
+	provinces={
+		3992 13141
+	}
+}

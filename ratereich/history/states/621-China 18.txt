@@ -6,15 +6,15 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = CHI
-		add_core_of = CHI
+		owner = BYJ
+		add_core_of = BYJ
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
 
 		1939.1.1 = {
-			remove_core_of = SHX
+			remove_core_of = BYJ
 			remove_building = {
 				type = industrial_complex
 				level = 1

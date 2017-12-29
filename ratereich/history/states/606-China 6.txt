@@ -1,29 +1,25 @@
-
-state={
+state= {
 	id=606
-	name="STATE_606"
+	name="STATE_606" #North Anhui
 	resources={
-		steel=16.000
+		steel=4
 	}
+	manpower = 18183210
 
-	history={
-		owner = CHI
-		add_core_of = CHI
+	state_category = town
+
+	history= {
+		owner = BYJ
+		add_core_of = BYJ
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 1
-
 		}
 		victory_points = {
-			7222 1 
+			7222 1
 		}
-
 	}
 
 	provinces={
-		1083 1146 4079 4158 4203 7035 7094 7222 9937 10008 10017 10040 10064 10079 11916 11994 12036 12061 
+		1001 1083 1146 1161 4079 4148 4158 4203 7035 7094 7222 9937 10008 10017 10040 10064 10079 11916 11994 12036 12061
 	}
-	manpower=23265400
-	buildings_max_level_factor=1.000
-	state_category=city
 }

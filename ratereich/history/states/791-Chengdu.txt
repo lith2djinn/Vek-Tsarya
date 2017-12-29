@@ -1,0 +1,25 @@
+state=
+{
+	id=791
+	name="STATE_791" # Sichuan
+	manpower = 1850747
+
+	state_category = city
+	history=
+	{
+		owner = YUN
+		add_core_of = YUN
+
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+		}
+		victory_points = {
+			4925 5
+		}
+
+	}
+	provinces={
+		1395 4925 10841 12141
+	}
+}

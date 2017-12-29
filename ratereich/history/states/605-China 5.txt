@@ -2,33 +2,26 @@ state=
 {
 	id=605
 	name="STATE_605" # Sichuan
-	manpower = 52963300
-	
-	state_category = city
-	
+	manpower = 32119621
+
+	state_category = large_town
+
 	resources={
-		steel = 20
+		steel = 4
+		oil = 1
 	}
 	history=
 	{
 		owner = YUN
-		add_core_of = CHI
 		add_core_of = YUN
-		
+
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 3
-			air_base = 2
+			industrial_complex = 1
 		}
-		victory_points = { 
-			4925 5 
-		}
-		victory_points = { 
-			6999 20
-		}	
 
 	}
 	provinces={
-		1367 1395 1893 2030 2091 4041 4141 4431 4925 5048 6999 7240 7256 8026 10132 10144 10304 11865 11972 12141 12274 12705 12767 12819 
+		1257 1367 2030 2045 2091 4375 4403 5048 7240 7256 8026 9966 10132 10144 11865 10787 10903 12274 12767
 	}
 }

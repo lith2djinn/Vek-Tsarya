@@ -1,0 +1,64 @@
+﻿capital = 776
+
+oob = "GXC_1936"
+
+set_research_slots = 3
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	mass_assault = 1
+}
+
+set_convoys = 10
+
+set_politics = {
+
+	parties = {
+
+
+		vanguard_socialism = {
+			popularity = 20
+		}
+
+		libertarian_socialism = {
+			popularity = 15
+		}
+
+		social_conservatism = {
+			popularity = 2
+		}
+
+		market_liberalism = {
+			popularity = 3
+		}
+
+		social_liberalism = {
+			popularity = 21
+		}
+
+		social_democratism = {
+			popularity = 22
+		}
+
+		revisionist_socialism = {
+			popularity = 17
+		}
+	}
+
+	ruling_party = social_democratism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Wang Jingwei"
+	desc = "POLITICS_LI_ZONGREN_DESC"
+	picture = "gfx/leaders/GXC/Portrait_Guanxi_Clique_Li_Zongren.dds"
+	expire = "1931.11.12"
+	ideology = left_nationalism
+	traits = {
+		#
+	}
+}

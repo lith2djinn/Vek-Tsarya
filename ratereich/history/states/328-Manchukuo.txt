@@ -1,32 +1,26 @@
 
 state={
 	id=328
-	name="STATE_328"
+	name="STATE_328" # Kirin
+	manpower = 3804251
 	resources={
-		aluminium=10.000
+		steel=4
 	}
+
+	state_category = large_town
 
 	history={
 		owner = JAP
-		add_core_of = CHI
-		add_core_of = JAP
+		add_core_of = MAN
 		buildings = {
 			infrastructure = 4
-
 		}
 		victory_points = {
-			4572 1 
+			4572 1
 		}
-		victory_points = {
-			10433 1 
-		}
-
 	}
 
 	provinces={
-		800 861 887 927 945 946 3888 3913 3929 3932 3947 3949 6868 6905 6947 9759 9803 9841 9848 9866 9883 9913 9928 11781 11823 11850 11862 
+		1567 4503 4572 7523 7591 7652 7663 9913 9928 11744 11864
 	}
-	manpower=7536266
-	buildings_max_level_factor=1.000
-	state_category=rural
 }

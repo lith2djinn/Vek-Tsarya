@@ -1,0 +1,17 @@
+state={
+	id=768
+	name="STATE_768"
+        state_category = town
+	history=
+	{
+		owner = JAP
+		buildings = {
+			infrastructure = 3
+		}
+}
+	provinces={
+		1104 1184 1200 4089 4157 4186 4205 7089 7105 10018 12074 
+	}
+	manpower=12932561
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,27 @@
+state= {
+	id=777
+	name="STATE_777"
+	manpower = 1508630
+	state_category = city
+	history=
+	{
+		owner = KMT
+		add_core_of = KMT
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard = 1
+			4196 = {
+				naval_base = 3
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+		victory_points = {
+			4196 2
+		}
+	}
+	provinces={
+		4196
+	}
+}

@@ -1,0 +1,20 @@
+
+state={
+	id=792
+	name="STATE_792"
+
+	history={
+		owner = BYJ
+		add_core_of = BYJ
+		buildings = {
+		infrastructure = 4
+		}
+			}
+
+	provinces={
+		1139 4114 4144 4606 7074
+	}
+	manpower=6250724
+	buildings_max_level_factor=1.000
+	state_category=town
+}
