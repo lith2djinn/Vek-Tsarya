@@ -1,0 +1,26 @@
+state={
+	id=768
+	name="STATE_768"
+	manpower = 845325
+	resources={
+		steel=28
+	}
+	
+	state_category = town
+	
+	history={
+		owner = LOR
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			air_base = 1
+		}
+		add_core_of = BEL
+		add_core_of = LOR
+		add_core_of = WLL
+	}
+
+	provinces={
+		9444 6537 3488 11407 9418
+	}
+}

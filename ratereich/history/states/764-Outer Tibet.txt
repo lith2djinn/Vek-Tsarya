@@ -1,0 +1,18 @@
+state={
+	id=764
+	name="STATE_764"
+	provinces={
+		4407 4914 4964 5018 5080 5102 8037 8041 8059 10741 10856 12899 
+	}
+		history={
+		owner = TIB
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+		}
+		add_core_of = TIB
+		
+	}
+	manpower=10000
+	buildings_max_level_factor=1.000
+}

@@ -1,21 +1,24 @@
 
 state={
 	id=538
-	name="STATE_538" # Central Congo
-	manpower = 2993974
-	
-	state_category = wasteland
+	name="STATE_538"
 	resources={
-		rubber=11
+		rubber=11.000
 	}
+
 	history={
 		owner = ENG
 		buildings = {
 			infrastructure = 1
+
 		}
+
 	}
 
 	provinces={
-		7931 12824 12741 10883 2073 11934 12808 2034 2154 6027 12783 12847 1950 8048 7219 1181 10766 4201 9962 2220 4941 7161 12907 1817 4515 191 
+		191 1181 1817 1950 2034 2073 2154 2220 4201 4515 4941 6027 7161 7931 9962 10766 10883 11934 12741 12783 12808 12824 12847 12907 
 	}
+	manpower=2993974
+	buildings_max_level_factor=1.000
+	state_category=wasteland
 }

@@ -1,8 +1,10 @@
-﻿capital = 195
+capital = 195
 
 oob = "SOV_1936"
 
-set_research_slots = 4
+set_research_slots = 4 
+
+set_convoys = 175
 
 add_ideas = {
 	victor_in_the_velikaya_voyna

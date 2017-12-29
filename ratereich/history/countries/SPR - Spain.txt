@@ -1,11 +1,13 @@
-﻿capital = 41
+capital = 41
 
 oob = "WLL_1936"
 
-set_research_slots = 3
+set_research_slots = 3 
+
+set_convoys = 175
 
 add_ideas = {
-	extensive_conscription
+	#
 }
 
 set_technology = {

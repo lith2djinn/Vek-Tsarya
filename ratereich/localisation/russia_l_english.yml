@@ -1,4 +1,5 @@
-﻿l_english:
+﻿l_english: 
+#COUNTRY NAME# 
 SOV_vanguard_socialism:0 "Russian Councilist Republic"
 SOV_vanguard_socialism_DEF:0 "Russia"
 SOV_vanguard_socialism_ADJ:0 "Russian"
@@ -38,7 +39,7 @@ SOV_reactionaryism_ADJ:0 "Russian"
 SOV_revolutionary_nationalism:0 "Russian Empire"
 SOV_revolutionary_nationalism_DEF:0 "Russia"
 SOV_revolutionary_nationalism_ADJ:0 "Russian"
-
+#PARTIES# 
 SOV_vanguard_socialism_party:0 "Russian Communist Party"
 SOV_libertarian_socialism_party:0 "Russian Workers' Party"
 SOV_revisionist_socialism_party:0 "Socialist Revolutionary Party"
@@ -51,7 +52,9 @@ SOV_reactionaryism_party:0 "Council of Monarchist Congresses"
 SOV_revolutionary_nationalism_party:0 "Union of Mladorosses"
 SOV_democratic_union:0 "Democratic Union"
 SOV_junta:0 "Military Junta"
-
+#LEADER DESCRITIONS AND BOOKMARKS# 
+RUSSIAN_EMPIRE_DESC:0 "The Russian Empire became one of the victorious powers in the Velikaya Voyna. A new emperor Alexei II and the State Duma carried out social reforms that pacified people. By the end of the 1920s the russian economy had finally recovered from the aftermath of the war and its growth began. Influence of russian culture also reached new heights. The new golden age soon began to be associated with Alexei II so came the term "Zolotoy Vek Tsarya Alekseya" (Golden Age of Tsar Alexei) or just Vek Tsarya (Age of the Tsar). But Russia still has many internal problems, and the emperor is sick with hemophilia so who knows how long he and his golden age will last..."
+#IDEAS#  
 victor_in_the_velikaya_voyna:0 "Victor in the Velikaya Voyna"
 victor_in_the_velikaya_voyna_desc:0 "Russia won the World War but russians paid dearly for this victory. The people will never forget the fallen in the struggle for the fatherland and they will never want to return to this nightmare again."
 
@@ -60,5 +63,13 @@ monopolized_industry_desc:0 "From the very outset of the industrial revolution r
 
 unstable_political_system:0 "Unstable Political System"
 unstable_political_system_desc:0 "There is no a stable majority in the State Duma so the work of the parliament is significantly complicated and a broad coalition in the Duma is needed to make some decisions."
+#CUSTOM TOOLTIPS AND FLAGS# 
+#DECISIONS (1.5 Update)# 
+#FOCUSES#
 
-RUSSIAN_EMPIRE_DESC:0 "The Russian Empire became one of the victorious powers in the Velikaya Voyna. A new emperor Alexei II and the State Duma carried out social reforms that pacified people. By the end of the 1920s the russian economy had finally recovered from the aftermath of the war and its growth began. Influence of russian culture also reached new heights. The new golden age soon began to be associated with Alexei II so came the term "Zolotoy Vek Tsarya Alekseya" (Golden Age of Tsar Alexei) or just Vek Tsarya (Age of the Tsar). But Russia still has many internal problems, and the emperor is sick with hemophilia so who knows how long he and his golden age will last..."
+
+
+
+
+
+

@@ -1,22 +1,13 @@
-﻿l_english:
-  CAN_right_authoritarianism:0 "Canada"
-  CAN_right_authoritarianism_DEF:0 "Canada"
-  CAN_right_authoritarianism_ADJ:0 "Canadian"
-  QUE_social_conservatism:0 "Quebec"
-  QUE_social_conservatism_DEF:0 "Quebec"
-  QUE_social_conservatism_ADJ:0 "Quebecois"
-  NFL_market_liberalism:0 "Newfoundland"
-  NFL_market_liberalism_DEF:0 "Newfoundland"
-  NFL_market_liberalism_ADJ:0 "Newfoundlander"
-  VICTORY_POINTS_12505:0 "St. John's"
-  VICTORY_POINTS_4360:0 "Charlottetown"
-  VICTORY_POINTS_634:0 "Fredericton"
-  VICTORY_POINTS_4430:0 "Cape Breton"
-  VICTORY_POINTS_4422:0 "Gaspé"
-  VICTORY_POINTS_1424:0 "Moncton"
-  STATE_468:0 "Eastern St Lawrence"
-  STATE_466:0 "Quebec"
-  STATE_746:0 "Nord-du-Quebec"
-  STATE_743:0 "Cote-Nord"
-  STATE_744:0 "Central Quebec"
-  STATE_745:0 "Prince Edward Island"
+﻿l_english: 
+#COUNTRY NAME# 
+CAN_right_authoritarianism:0 "Canada"
+CAN_right_authoritarianism_DEF:0 "Canada"
+CAN_right_authoritarianism_ADJ:0 "Canadian"
+#PARTIES# 
+#LEADER DESCRITIONS# 
+#IDEAS# 
+#CUSTOM TOOLTIPS AND FLAGS# 
+#DECISIONS (1.5 Update)# 
+#FOCUSES#
+  
+  

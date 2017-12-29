@@ -1,0 +1,24 @@
+
+state={
+	id=556
+	name="STATE_556"
+	resources={
+		rubber=2.000
+	}
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		1909 2012 4927 4957 5013 5039 5045 5070 8008 8065 8116 8122 10762 10771 10803 10812 10829 10915 12751 12794 12802 12838 12858 
+	}
+	manpower=14844500
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

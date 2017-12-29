@@ -1,4 +1,60 @@
-﻿l_english:
-  SPR_market_liberalism:0 "Iberian Federation"
-  CAN_right_authoritarianism_DEF:0 "Wallonia"
-  CAN_right_authoritarianism_ADJ:0 "Walloon"
+﻿l_english: 
+#COUNTRY NAME#
+SPR_vanguard_socialism:0 "Iberian People's Republic"
+SPR_vanguard_socialism_DEF:0 "Iberia"
+SPR_vanguard_socialism_ADJ:0 "Iberian"
+
+SPR_libertarian_socialism:0 "Iberian Union of Communes"
+SPR_libertarian_socialism_DEF:0 "Iberia"
+SPR_libertarian_socialism_ADJ:0 "Iberian"
+
+SPR_revisionist_socialism:0 "Iberian Federation"
+SPR_revisionist_socialism_DEF:0 "Iberia"
+SPR_revisionist_socialism_ADJ:0 "Iberian"
+
+SPR_social_democratism:0 "Iberian Federation"
+SPR_social_democratism_DEF:0 "Iberia"
+SPR_social_democratism_ADJ:0 "Iberian"
+
+SPR_social_liberalism:0 "Iberian Federation"
+SPR_social_liberalism_DEF:0 "Iberia"
+SPR_social_liberalism_ADJ:0 "Iberian"
+
+SPR_market_liberalism:0 "Iberian Federation"
+SPR_market_liberalism_DEF:0 "Iberia"
+SPR_market_liberalism_ADJ:0 "Iberian"
+
+SPR_social_conservatism:0 "Iberian Federation"
+SPR_social_conservatism_DEF:0 "Iberia"
+SPR_social_conservatism_ADJ:0 "Iberian"
+
+SPR_right_authoritarianism:0 "Iberian Federation"
+SPR_right_authoritarianism_DEF:0 "Iberia"
+SPR_right_authoritarianism_ADJ:0 "Iberian"
+
+SPR_reactionaryism:0 "Kingdom of Iberia"
+SPR_reactionaryism_DEF:0 "Iberia"
+SPR_reactionaryism_ADJ:0 "Iberian"
+
+SPR_revolutionary_nationalism:0 "Iberian State"
+SPR_revolutionary_nationalism_DEF:0 "Iberia"
+SPR_revolutionary_nationalism_ADJ:0 "Iberian" 
+
+#PARTIES# 
+SPR_vanguard_socialism_party:0 "Iberian Communist Party"
+SPR_libertarian_socialism_party:0 "Confederación Nacional de Trabajo"
+SPR_revisionist_socialism_party:0 "Partido Socialista Obrero Ibérico"
+SPR_social_democratism_party:0 "Partido Humanista Ibérico"
+SPR_social_liberalism_party:0 "Partido Radical Socialista"
+SPR_market_liberalism_party:0 "Partido Liberal Democrático"
+SPR_social_conservatism_party:0 "Unión Conservadora"
+SPR_right_authoritarianism_party:0 "Sociedad General de Periodismo"
+SPR_reactionaryism_party:0 "Partido Monárquico"
+SPR_revolutionary_nationalism_party:0 "Junta Nacional de Defensa"
+SPR_azana_party:0 "Acción Republicana" 
+
+#LEADER DESCRITIONS# 
+#IDEAS# 
+#CUSTOM TOOLTIPS AND FLAGS# 
+#DECISIONS (1.5 Update)# 
+#FOCUSES#

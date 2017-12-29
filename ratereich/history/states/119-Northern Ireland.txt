@@ -18,12 +18,11 @@ state={
 				naval_base = 4
 			}
 		}
-		add_core_of = IRE
 		add_core_of = ENG
 	}
 
 	provinces={
-		276 385 3217 3242 3329 3379 11257 337 
+		276 385 3217 3242 3329 3379 11257  
 	}
 	manpower=1198537
 	buildings_max_level_factor=1
