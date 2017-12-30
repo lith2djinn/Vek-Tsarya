@@ -567,5 +567,11 @@ SHA = {
 	color = rgb { 6  103  249 }
 	color_ui = rgb { 6  103  249 }
 }
-
-
+BYJ = {
+	color = rgb { 141  94  32 }
+	color_ui = rgb { 141  94  32 }
+}
+KMT = {
+	color = rgb { 232  138  15 }
+	color_ui = rgb { 232  138  15 }
+}

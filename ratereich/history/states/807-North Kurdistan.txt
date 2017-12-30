@@ -1,17 +1,18 @@
 state={
-	id=762
-	name="STATE_762"
+	id=807
+	name="STATE_807"
 	provinces={
-		1975 2001 2044 2056 2068 5101 7930 7939 7950 7954 7983 8028 8071 10788 10836 12707 12851 
+		876 9860 
 	}
 	history={
-		owner = AFR
+		owner = KUR
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
 		}
-		add_core_of = AFR
+		add_core_of = KUR
 		
 	}
+	manpower=10000
 	buildings_max_level_factor=1.000
 }

@@ -1,7 +1,7 @@
-
+#France
 
 graphical_culture = western_european_gfx
 graphical_culture_2d = western_european_2d
 
-color = rgb { 98  0  196 }
-	color_ui = rgb { 98  0  196 }
+color = rgb { 113  145  174 }
+	color_ui = rgb { 113  145  174 }

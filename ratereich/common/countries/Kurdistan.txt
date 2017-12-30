@@ -2,5 +2,5 @@
 graphical_culture = middle_eastern_gfx
 graphical_culture_2d = middle_eastern_2d 
 
-color = rgb { 25  238  53 }
-	color_ui = rgb { 25  238  53 }
+color = rgb { 6  249  249 }
+	color_ui = rgb { 6  249  249 }
