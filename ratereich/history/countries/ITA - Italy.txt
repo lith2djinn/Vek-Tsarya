@@ -28,52 +28,51 @@ set_politics = {
 
 	parties = {
 		vanguard_socialism = {
-			popularity = 10
+			popularity = 13
 		}
 		libertarian_socialism = {
-			popularity = 10
+			popularity = 0
 		}
 		revisionist_socialism = {
-			popularity = 10
+			popularity = 17
 		}
 		social_democratism = {
-			popularity = 10
+			popularity = 3
 		}
 		social_liberalism = {
-			popularity = 10
+			popularity = 3
 		}
 		market_liberalism = {
-			popularity = 10
+			popularity = 32
 		}
 		social_conservatism = {
-			popularity = 10
+			popularity = 5
 		}
 		right_authoritarianism = {
-			popularity = 10
+			popularity = 0
 		}
 		reactionaryism = {
-			popularity = 10
+			popularity = 0
 		}
 		revolutionary_nationalism = {
-			popularity = 10
+			popularity = 27
 		}
 	}
 	
-	ruling_party = social_liberalism
-	last_election = "1933.10.25"
+	ruling_party = market_liberalism
+	last_election = "1935.10.25"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-set_national_unity = 0.5
+set_national_unity = 0.65
 
 create_country_leader = {
-	name = "Generic Genericson"
-	desc = "POLITICS_ALEXEI_II_DESC"
-	picture = "Portrait_Russia_Alexei.dds"
+	name = "Vittorio Emanuele III"
+	desc = "POLITICS_VITTORIO_III_DESC"
+	picture = "Portrait_Italy_vittorio_III.tga"
 	expire = "1965.1.1"
-	ideology = centrism
+	ideology = conservative_liberalism
 	traits = {
-		popular_figurehead
 	}
 } 

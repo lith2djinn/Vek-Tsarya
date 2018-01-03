@@ -19,9 +19,10 @@ state= {
 				coastal_bunker = 1
 				bunker = 1
 			}
-			victory_points = {
+			
+		  } 
+		victory_points = {
 				9978 3
-		  }
 	  }
 	}
 	provinces={

@@ -5,7 +5,8 @@ state={
 
 	history={
 		owner = SOV
-		add_core_of = MAN
+		add_core_of = KMT 
+		add_core_of = BYJ
 		buildings = {
 			infrastructure = 3
 
@@ -14,7 +15,7 @@ state={
 	}
 
 	provinces={
-		1499 1645 4506 4561 4633 4649 7526 7582 12485
+		1499 1645 4506 4561 4633 4649 7526 7582 12485 7652 7523 7591 10433 9782 
 	}
 	manpower=1006803
 	buildings_max_level_factor=1.000
