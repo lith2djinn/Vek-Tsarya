@@ -21,87 +21,68 @@ bookmarks = {
 		}
 
 		"GER"={
-			history = "GER_GATHERING_STORM_DESC"
-			ideology = fascism
+			history = "DEUTSCHE_RATEREPUBLIK_DESC"
+			ideology = libertarian_socialist
 			ideas = {
-				sour_loser
-				general_staff
+				
 			}
 			focuses = {
-				GER_anschluss
-				GER_danzig_or_war
-				GER_ussr_war_goal
+				
 			}
 		}
 		"FRA"={
-			history = "FRA_GATHERING_STORM_DESC"
-			ideology = democratic
+			history = "FRENCH_STATE_DESC"
+			ideology = revolutionary_nationalism
 			ideas = {
-				FRA_victors_of_wwi
-				FRA_disjointed_government
-				FRA_protected_by_the_maginot_line
+			
 			}
 			focuses = {
-				FRA_initiate_government_reform
-				FRA_support_status_quo
-				FRA_revise_versailles
+				
 			}
 		}
 		"ENG"={
-			history = "ENG_GATHERING_STORM_DESC"
-			ideology = democratic
+			history = "UNITED_KINGDOM_DESC"
+			ideology = social_conservatism
 			ideas = {
-				stiff_upper_lip
-				ENG_the_war_to_end_all_wars
-				george_v
+			
 			}
 			focuses = {
-				tizard_mission_focus
-				ENG_war_with_germany
-				ENG_war_with_italy
+				
 			}
 		}
 		"ITA"={
-			history = "ITA_GATHERING_STORM_DESC"
-			ideology = fascism
+			history = "KINGDOM_OF_ITALY_DESC"
+			ideology = market_liberal
 			ideas = {
-				vittoria_mutilata
-				victor_emmanuel
+				
 			}	
 			focuses = {
-				ITA_pact_of_steel
-				ITA_spanish_italian_faction
-				ITA_italy_first
+				
 			}		
 		}
 		"USA"={
-			history = "USA_GATHERING_STORM_DESC"
-			ideology = democratic
+			history = "UNITED_STATES_DESC"
+			ideology = social_liberalism
 			ideas = {
-				home_of_the_free
-				great_depression
-				undisturbed_isolation
+				
 			}
 			focuses = {
-				USA_war_plan_black
-				USA_strike_at_the_empire
-				USA_pearl_harbor_gambit
+				
 			}
 		}
 		"JAP"={
-			history = "JAP_GATHERING_STORM_DESC"
-			ideology = fascism
+			history = "JAPANESE_EMPIRE_DESC"
+			ideology = social_conservatism
 			ideas = {
-				state_shintoism
+				
 			}	
 			focuses = {
-				southern_expansion_focus
-				divine_wind_focus
-				found_own_faction_focus
+			
 			}			
 		}
 
 
 		"---"={
 			history = "OTHER_GATHERING_STORM_DESC"
-		}
+		} 
+		

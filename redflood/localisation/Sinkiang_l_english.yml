@@ -1,44 +1,44 @@
 ﻿l_english: 
 #COUNTRY NAME# 
-SKG_vanguard_socialism:0 "Country"
-SKG_vanguard_socialism_DEF:0 "Country"
-SKG_vanguard_socialism_ADJ:0 "Countryn"
+SIK_vanguard_socialism:0 "Country"
+SIK_vanguard_socialism_DEF:0 "Country"
+SIK_vanguard_socialism_ADJ:0 "Countryn"
 
-SKG_libertarian_socialism:0 "Country"
-SKG_libertarian_socialism_DEF:0 "Country"
-SKG_libertarian_socialism_ADJ:0 "Countryn"
+SIK_libertarian_socialism:0 "Country"
+SIK_libertarian_socialism_DEF:0 "Country"
+SIK_libertarian_socialism_ADJ:0 "Countryn"
 
-SKG_revisionist_socialism:0 "Country"
-SKG_revisionist_socialism_DEF:0 "Country"
-SKG_revisionist_socialism_ADJ:0 "Countryn"
+SIK_revisionist_socialism:0 "Country"
+SIK_revisionist_socialism_DEF:0 "Country"
+SIK_revisionist_socialism_ADJ:0 "Countryn"
 
-SKG_social_democratism:0 "Country"
-SKG_social_democratism_DEF:0 "Country"
-SKG_social_democratism_ADJ:0 "Countryn"
+SIK_social_democratism:0 "Country"
+SIK_social_democratism_DEF:0 "Country"
+SIK_social_democratism_ADJ:0 "Countryn"
 
-SKG_social_liberalism:0 "Country"
-SKG_social_liberalism_DEF:0 "Country"
-SKG_social_liberalism_ADJ:0 "Countryn"
+SIK_social_liberalism:0 "Country"
+SIK_social_liberalism_DEF:0 "Country"
+SIK_social_liberalism_ADJ:0 "Countryn"
 
-SKG_market_liberalism:0 "Country"
-SKG_market_liberalism_DEF:0 "Country"
-SKG_market_liberalism_ADJ:0 "Countryn"
+SIK_market_liberalism:0 "Country"
+SIK_market_liberalism_DEF:0 "Country"
+SIK_market_liberalism_ADJ:0 "Countryn"
 
-SKG_social_conservatism:0 "Country"
-SKG_social_conservatism_DEF:0 "Country"
-SKG_social_conservatism_ADJ:0 "Countryn"
+SIK_social_conservatism:0 "Country"
+SIK_social_conservatism_DEF:0 "Country"
+SIK_social_conservatism_ADJ:0 "Countryn"
 
-SKG_right_authoritarianism:0 "Country"
-SKG_right_authoritarianism_DEF:0 "Country"
-SKG_right_authoritarianism_ADJ:0 "Countryn"
+SIK_right_authoritarianism:0 "Country"
+SIK_right_authoritarianism_DEF:0 "Country"
+SIK_right_authoritarianism_ADJ:0 "Countryn"
 
-SKG_reactionaryism:0 "Country"
-SKG_reactionaryism_DEF:0 "Country"
-SKG_reactionaryism_ADJ:0 "Countryn"
+SIK_reactionaryism:0 "Country"
+SIK_reactionaryism_DEF:0 "Country"
+SIK_reactionaryism_ADJ:0 "Countryn"
 
-SKG_revolutionary_nationalism:0 "Country"
-SKG_revolutionary_nationalism_DEF:0 "Country"
-SKG_revolutionary_nationalism_ADJ:0 "Countryn"
+SIK_revolutionary_nationalism:0 "Country"
+SIK_revolutionary_nationalism_DEF:0 "Country"
+SIK_revolutionary_nationalism_ADJ:0 "Countryn"
 #PARTIES# 
 #LEADER DESCRITIONS# 
 #IDEAS# 
