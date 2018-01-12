@@ -1,26 +1,24 @@
-﻿capital = 604
-
-oob = "XSM_1936"
-
-# Starting tech
+capital = 777
+oob = "FJN_1936"
+set_research_slots = 2
 set_technology = {
 	infantry_weapons = 1
-	mass_assault = 1
 }
+set_convoys = 5
 
 set_politics = {
 
 	parties = {
 		reactionaryism = {
-			popularity = 50
+			popularity = 5
 		}
 
 		revolutionary_nationalism = {
-			popularity = 0
+			popularity = 23
 		}
 
 		right_authoritarianism = {
-			popularity = 40
+			popularity = 56
 		}
 
 		vanguard_socialism = {
@@ -32,15 +30,15 @@ set_politics = {
 		}
 
 		social_conservatism = {
-			popularity = 5
+			popularity = 7
 		}
 
 		market_liberalism = {
-			popularity = 5
+			popularity = 7
 		}
 
 		social_liberalism = {
-			popularity = 0
+			popularity = 2
 		}
 
 		social_democratism = {
@@ -48,18 +46,18 @@ set_politics = {
 		}
 	}
 
-	ruling_party = reactionaryism
+	ruling_party = right_authoritarianism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Ma Bufang"
-	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
+	name = "Sa Zhenbing"
+	desc = "POLITICS_LONG_YUN_DESC"
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_warlord1.dds"
 	expire = "1965.1.1"
-	ideology = reactionary_nationalism
+	ideology = military_dictatorship
 	traits = {
 		#
 	}

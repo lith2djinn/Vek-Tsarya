@@ -4,17 +4,17 @@ state={
 	name="STATE_793"
 
 	history={
-		owner = SIK
-		add_core_of = SIK
+		owner = MON
+		add_core_of = MON
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 		}
 	}
 
 	provinces={
-		1708 1783 1844 12590
+		1855 7870 7808 1774 10539 4751
 	}
-	manpower=343700
+	manpower=34370
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 }

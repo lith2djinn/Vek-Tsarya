@@ -9,8 +9,8 @@ state= {
 	}
 
 	history= {
-		owner = KMT
-		add_core_of = KMT
+		owner = GDP
+		add_core_of = GDP
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 3
@@ -19,8 +19,8 @@ state= {
 				coastal_bunker = 1
 				bunker = 1
 			}
-			
-		  } 
+
+		  }
 		victory_points = {
 				9978 3
 	  }

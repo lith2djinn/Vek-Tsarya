@@ -11,12 +11,15 @@ state=
 	}
 	history=
 	{
-		owner = YUN
-		add_core_of = YUN
+		owner = SZC
+		add_core_of = SZC
 
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
+		}
+		victory_points = {
+			12705 2
 		}
 
 	}

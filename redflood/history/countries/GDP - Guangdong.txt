@@ -1,6 +1,6 @@
-﻿capital = 604
+﻿capital = 776
 
-oob = "XSM_1936"
+oob = "GDP_1936"
 
 # Starting tech
 set_technology = {
@@ -8,11 +8,13 @@ set_technology = {
 	mass_assault = 1
 }
 
+set_convoys = 5
+
 set_politics = {
 
 	parties = {
 		reactionaryism = {
-			popularity = 50
+			popularity = 5
 		}
 
 		revolutionary_nationalism = {
@@ -20,7 +22,7 @@ set_politics = {
 		}
 
 		right_authoritarianism = {
-			popularity = 40
+			popularity = 45
 		}
 
 		vanguard_socialism = {
@@ -32,15 +34,15 @@ set_politics = {
 		}
 
 		social_conservatism = {
-			popularity = 5
+			popularity = 15
 		}
 
 		market_liberalism = {
-			popularity = 5
+			popularity = 25
 		}
 
 		social_liberalism = {
-			popularity = 0
+			popularity = 10
 		}
 
 		social_democratism = {
@@ -48,18 +50,18 @@ set_politics = {
 		}
 	}
 
-	ruling_party = reactionaryism
+	ruling_party = right_authoritarianism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 create_country_leader = {
-	name = "Ma Bufang"
-	desc = ""
-	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
+	name = "Thomas Southorn"
+	desc = "POLITICS_LONG_YUN_DESC"
+	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_warlord1.dds"
 	expire = "1965.1.1"
-	ideology = reactionary_nationalism
+	ideology = oligarchy
 	traits = {
 		#
 	}

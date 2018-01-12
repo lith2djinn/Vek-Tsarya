@@ -14,9 +14,8 @@ state={
 	}
 
 	history={
-		owner = BYJ
+		owner = XSM
 		add_core_of = XSM
-		add_core_of = BYJ
 
 		buildings = {
 			infrastructure = 3

@@ -1,0 +1,17 @@
+state={
+	id=764
+	name="STATE_764"
+	history={
+		owner = MON
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+	provinces={
+		7749 12612 1743 12629 12557 10578 10647 10575 4873 1868 4792 12665 10708 12533 7823 7885
+	}
+	manpower=97560
+	buildings_max_level_factor=1.000
+        state_category=pastoral
+}

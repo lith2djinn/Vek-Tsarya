@@ -8,8 +8,8 @@ state= {
 	}
 
 	history= {
-		owner = KMT
-		add_core_of = KMT
+		owner = GDP
+		add_core_of = GDP
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 3
@@ -26,6 +26,6 @@ state= {
 		  }
 	}
 	provinces={
-		1047 1202 7108 7152 11938 12095
+		1047 1202 7108 7152 12095
 	}
 }

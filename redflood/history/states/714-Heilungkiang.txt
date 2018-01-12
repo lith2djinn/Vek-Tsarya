@@ -6,7 +6,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = SOV
+		owner = MAN
 		add_core_of = MAN
 		buildings = {
 			infrastructure = 3
@@ -15,6 +15,6 @@ state={
 	}
 
 	provinces={
-		1588 1693 1847 4592 7613 7767 7832 7848 7897 10675 10698 12548 12618
+		1588 1693 4592 7613 7767 7832 7848 7897 10675 10698 12548 12618
 	}
 }
