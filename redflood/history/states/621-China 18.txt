@@ -1,8 +1,8 @@
 state={
 	id=621
 	name="STATE_621" # Suiyuan
-	manpower = 2083700
-	
+	manpower = 1583700
+
 	state_category = pastoral
 
 	history={
@@ -12,19 +12,9 @@ state={
 			infrastructure = 2
 			industrial_complex = 1
 		}
-
-		1939.1.1 = {
-			remove_core_of = BYJ
-			remove_building = {
-				type = industrial_complex
-				level = 1
-			}
-			owner = MEN
-			controller = MEN
-		}
 	}
 
 	provinces={
-		1959 2087 3427 4525 4960 4986 7048 7158 7631 10424 10451 10629 10854 12331 12403 12609 12706 12880 
+		2087 4525 7048 7158 7631 10424 10629 12331 12403 12609 12880
 	}
 }

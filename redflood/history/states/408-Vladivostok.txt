@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = MAN
+		owner = SOV
 		victory_points = {
 			957 15
 		}
@@ -19,18 +19,17 @@ state={
 			957 = {
 				naval_base = 8
 				coastal_bunker = 3
-
 			}
 
 		}
-		add_core_of = MAN
+		add_core_of = SOV
 
 	}
 
 	provinces={
-		957 3787 3977 6684 6838 6961 6989 9762 9895 9926 11750 783 6806 3944 11879 9897
+		957
 	}
-	manpower=441465
+	manpower=241465
 	buildings_max_level_factor=1.000
 	state_category=city
 }

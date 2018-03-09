@@ -6,14 +6,14 @@ state={
 	resources={
 		aluminium=2
 	}
-	
-	
+
+
 	state_category = city
 
 	history={
 		owner = YUG
 		victory_points = {
-			949 15 
+			949 15
 		}
 		buildings = {
 			infrastructure = 5
@@ -24,6 +24,6 @@ state={
 	}
 
 	provinces={
-		793 935 949 965 3908 3971 11754 
+		793 935 949 965 3908 3971 11754 6857 9818 9771
 	}
 }

@@ -10,7 +10,7 @@ state={
 
 	history={
 		owner = JAP
-		add_core_of = CHI
+		add_core_of = YUN
 		buildings = {
 			infrastructure = 2
 			11981 = {

@@ -1,24 +1,22 @@
 state={
 	id=717
 	name="STATE_717"
-	manpower=5089453
+	manpower=1006803
 
 	state_category = rural
 
 	history={
-		owner = JAP
+		owner = MAN
 		add_core_of = MAN
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 
 		}
-		victory_points = {
-			10433 1
-		}
+
 	}
 
 	provinces={
-		 944   3929    6964   11862   
+		783 973 3791 3944 6806 6811 6964 9766 11879 9897 10376 10503 11893 11906 12355 12482 783 6806 3944 9897
 	}
 	buildings_max_level_factor=1.000
 }

@@ -1,23 +1,24 @@
-
 state={
 	id=601
-	name="STATE_601" # Xikang
-	manpower = 358162
-	state_category = rural
+	name="STATE_601"
 	resources={
-		oil=2
+		oil=2.000
 	}
 
 	history={
-		owner = SZC
+		owner = TIB
 		add_core_of = SZC
 		add_core_of = TIB
 		buildings = {
 			infrastructure = 1
+
 		}
 	}
 
 	provinces={
-		1918 1999 7988 8104 12724 12837
+		4407 5018 5080 5102 8041 8059 10741 10856
 	}
+	manpower=368200
+	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

@@ -1,4 +1,3 @@
-
 state={
 	id=618
 	name="STATE_618"
@@ -7,8 +6,9 @@ state={
 	}
 
 	history={
-		owner = SIK
+		owner = XSM
 		add_core_of = SIK
+		add_core_of = XSM
 		victory_points = {
 			4823 1
 		}

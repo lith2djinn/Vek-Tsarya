@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = SOV
+		owner = AFG
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -15,14 +15,14 @@ state={
 
 		}
 		victory_points = {
-			10737 5 
+			10737 5
 		}
 		add_core_of = AFG
 
 	}
 
 	provinces={
-		4893 7448 7519 7584 7984 10476 10781 10852 10896 12248 12314 12653 12877 
+		4893 7448 7519 7584 7984 10476 10781 10852 10896 12248 12314 12653 12877
 	}
 	manpower=4637140
 	buildings_max_level_factor=1.000

@@ -1,0 +1,22 @@
+state={
+	id=807
+	name="STATE_807"
+	manpower = 47200
+
+	state_category = wasteland
+
+	history={
+		owner = SYR
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SYR
+		add_core_of = KUR
+
+	}
+
+
+	provinces={
+		1549 1578
+	}
+}

@@ -2,7 +2,7 @@ state=
 {
 	id=791
 	name="STATE_791" # Sichuan
-	manpower = 1850747
+	manpower = 11850747
 
 	state_category = city
 	history=
@@ -20,6 +20,6 @@ state=
 
 	}
 	provinces={
-		1395 4925 10841 12141
+		1395 4925 12141 7240 12705
 	}
 }

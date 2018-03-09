@@ -2,7 +2,7 @@ state={
 	id=802
 	name="STATE_802"
 	provinces={
-		1975 2001 2044 2056 2068 5101 7930 7939 7950 7954 7983 8028 8071 10788 10836 12707 12851 
+		1975 2001 2044 2056 2068 5101 7930 7939 7950 7954 7983 8028 8071 10788 10836 12707 12851
 	}
 	history={
 		owner = AFR
@@ -11,7 +11,9 @@ state={
 			industrial_complex = 1
 		}
 		add_core_of = AFR
-		
+
 	}
+	manpower=100
 	buildings_max_level_factor=1.000
+	state_category = pastoral
 }

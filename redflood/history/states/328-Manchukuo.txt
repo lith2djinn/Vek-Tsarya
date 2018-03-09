@@ -3,14 +3,11 @@ state={
 	id=328
 	name="STATE_328" # Kirin
 	manpower = 3804251
-	resources={
-		steel=4
-	}
 
-	state_category = large_town
+	state_category = rural
 
 	history={
-		owner = JAP
+		owner = MAN
 		add_core_of = MAN
 		buildings = {
 			infrastructure = 4
@@ -21,6 +18,6 @@ state={
 	}
 
 	provinces={
-		1567 4503 4572   7663 9913 9928 11744 11864
+		1567 4503 4572 7523 7591 7652 7663 9913 9928 11744 11864
 	}
 }

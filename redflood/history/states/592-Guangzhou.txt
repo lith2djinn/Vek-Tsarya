@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = GDP
+		owner = JAP
 		add_core_of = GDP
 		buildings = {
 			infrastructure = 3

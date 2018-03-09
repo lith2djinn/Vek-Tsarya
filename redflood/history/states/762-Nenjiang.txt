@@ -1,0 +1,26 @@
+state={
+	id=762
+	name="STATE_762"
+	manpower=5089453
+
+	state_category = city
+
+	history={
+		owner = MAN
+		add_core_of = MAN
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 3
+			air_base = 4
+		}
+		victory_points = {
+			10433 5
+		}
+	}
+
+	provinces={
+		1645 4506 4561 4633 4649 10433 7526 7582 12485 9782 12412
+	}
+	buildings_max_level_factor=1.000
+}

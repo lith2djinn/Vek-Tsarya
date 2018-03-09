@@ -1,30 +1,22 @@
-
 state={
 	id=715
 	name="STATE_715"
-	resources={
-		steel=20.000
-	}
+	manpower = 1851038
+
+	state_category = town
 
 	history={
-		owner = JAP
+		owner = MAN
 		add_core_of = MAN
 		buildings = {
 			infrastructure = 3
-			arms_factory = 3
+			arms_factory = 1
 			industrial_complex = 1
-
-		}
-		victory_points = {
-			1150 1
 		}
 
 	}
 
 	provinces={
-		846 11764 9781 892 836 916 930 987 3849 3895 4642 6804 6893 6951 9835 9788 9831 9885 11771 11808 11815 11836
+		930 1499 1558 1627 1638 4642 12469 7812 11903 12337
 	}
-	manpower=8328866
-	buildings_max_level_factor=1.000
-	state_category=large_town
 }

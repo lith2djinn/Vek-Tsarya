@@ -5,7 +5,7 @@ state= {
 	state_category = city
 	history=
 	{
-		owner = FJN
+		owner = JAP
 		add_core_of = FJN
 		buildings = {
 			infrastructure = 3
