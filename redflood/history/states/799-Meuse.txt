@@ -6,9 +6,9 @@ state={
 	resources={
 		steel=28
 	}
-	
+
 	state_category = town
-	
+
 	history={
 		owner = LOR
 		buildings = {
@@ -22,6 +22,6 @@ state={
 	}
 
 	provinces={
-		9444 6537 3488 11407 9418 3560
+		9444 3488 11407 9418 3560
 	}
 }

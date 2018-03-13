@@ -1,34 +1,30 @@
-
 state={
-	id=286
-	name="STATE_286"
+	id=817
+	name="STATE_817"
 	resources={
-		steel=4
+		rubber=12.000
 	}
 
 	history={
 		add_core_of = VIN
-		owner = JAP
+		owner = VIN
 		victory_points = {
-			4401 3
+			4379 3
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
-			air_base = 2
-			4401 = {
-				naval_base = 4
-
+			10309 = {
+				naval_base = 1
 			}
-
 		}
 
 	}
 
 	provinces={
-		4401 1396 12232
+		1248 4255 4379 7229 10137 10180 10309
 	}
-	manpower=845000
+	manpower=4245000
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=rural
 }

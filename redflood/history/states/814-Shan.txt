@@ -1,0 +1,21 @@
+state={
+	id=814
+	name="STATE_814"
+
+	history={
+		owner = BUR
+		add_core_of = BUR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		4175 4210 7400 7647 7909 7974 12317 7603 2061 1170 12363 1566 1607 7562
+	}
+	manpower=944600
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
