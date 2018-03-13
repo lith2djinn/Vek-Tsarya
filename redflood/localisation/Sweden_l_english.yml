@@ -12,9 +12,9 @@ SWE_revisionist_socialism:0 "Country"
 SWE_revisionist_socialism_DEF:0 "Country"
 SWE_revisionist_socialism_ADJ:0 "Countryn"
 
-SWE_social_democratism:0 "Country"
-SWE_social_democratism_DEF:0 "Country"
-SWE_social_democratism_ADJ:0 "Countryn"
+SWE_social_democratism:0 "Sweden-Norway"
+SWE_social_democratism_DEF:0 "The Union of Sweden and Norway"
+SWE_social_democratism_ADJ:0 "Nordics" #TODO: Change this later to better reflect the ADJ.
 
 SWE_social_liberalism:0 "Country"
 SWE_social_liberalism_DEF:0 "Country"
@@ -24,9 +24,9 @@ SWE_market_liberalism:0 "Country"
 SWE_market_liberalism_DEF:0 "Country"
 SWE_market_liberalism_ADJ:0 "Countryn"
 
-SWE_social_conservatism:0 "Country"
-SWE_social_conservatism_DEF:0 "Country"
-SWE_social_conservatism_ADJ:0 "Countryn"
+SWE_social_conservatism:0 "Sweden-Norway"
+SWE_social_conservatism_DEF:0 "Kingdom of Sweden and Norway"
+SWE_social_conservatism_ADJ:0 "Nordics"
 
 SWE_right_authoritarianism:0 "Country"
 SWE_right_authoritarianism_DEF:0 "Country"
@@ -40,7 +40,9 @@ SWE_revolutionary_nationalism:0 "Country"
 SWE_revolutionary_nationalism_DEF:0 "Country"
 SWE_revolutionary_nationalism_ADJ:0 "Countryn"
 #PARTIES# 
-#LEADER DESCRITIONS# 
+#LEADER DESCRITIONS AND BOOKMARK# 
+POLITICS_PER_ALBIN_HANSSON_DESC:0 "Per Albin Hansson got elected as Prime Minister in the year 1932 when his party 'Social Democrats' won the Election. Ever since then, he has lead the country to greatness and helping Norway in their civil war and taking them in under the protection of a union with Sweden."
+SWEDEN_NORWAY_DESC:0 "During the Velikaya Voyna, Sweden has become a strong neutral country by refusing to participate in the war. Sweden refused to help Germany take over Finland, and signed the neutrality pact instead alongside with Norway and Denmark. Germany did not take to this kindly, and in a last ditch effort attacked Denmark. Sweden quickly responded by sending troops to Copenhagen and helping them fight against the Germans. However, the Danish government fell quickly, forcing Sweden to install a Swedish government in Denmark to ensure stablity and to repel the socialists. After Denmark managed to form a stable government, Sweden guaranteed their indepedence. Sweden helped Norway fight off the socialist uprising, and in the end got into a union with Norway."
 #IDEAS# 
 #CUSTOM TOOLTIPS AND FLAGS# 
 #DECISIONS (1.5 Update)# 

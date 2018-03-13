@@ -20,6 +20,11 @@ bookmarks = {
 			}	
 		}
 
+		"SWE"={
+			history = "SWEDEN_NORWAY_DESC"
+			ideology = social_democratism_ideology
+		}
+
 		"GER"={
 			history = "DEUTSCHE_RATEREPUBLIK_DESC"
 			ideology = libertarian_socialist

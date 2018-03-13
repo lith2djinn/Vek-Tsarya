@@ -1,6 +1,6 @@
-capital = 38
+﻿capital = 141
 
-oob = #
+oob = "SWE_1936"
 
 set_research_slots = 3 
 
@@ -18,62 +18,65 @@ set_technology = {
 	tech_engineers = 1
 	motorised_infantry = 1
 	early_fighter = 1
+	gw_artillery = 1
 
 }
 
 
-
+#### DIPLOMACY ####
+#DENMARK GUARANTEED
+give_guarantee = DEN
 
 set_politics = {
 
 	parties = {
 		vanguard_socialism = {
-			popularity = 10
+			popularity = 5
 		}
 		libertarian_socialism = {
-			popularity = 10
+			popularity = 5
 		}
 		revisionist_socialism = {
-			popularity = 10
+			popularity = 5
 		}
 		social_democratism = {
-			popularity = 10
+			popularity = 67
 		}
 		social_liberalism = {
-			popularity = 10
+			popularity = 5
 		}
 		market_liberalism = {
-			popularity = 10
+			popularity = 3
 		}
 		social_conservatism = {
 			popularity = 10
 		}
 		right_authoritarianism = {
-			popularity = 10
+			popularity = 0
 		}
 		reactionaryism = {
-			popularity = 10
+			popularity = 0
 		}
 		revolutionary_nationalism = {
-			popularity = 10
+			popularity = 0
 		}
 	}
 	
-	ruling_party = social_liberalism
+	ruling_party = social_democratism
 	last_election = "1933.10.25"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-set_national_unity = 0.5
+set_national_unity = 0.8
 
 create_country_leader = {
-	name = "Generic Genericson"
-	desc = "POLITICS_ALEXEI_II_DESC"
-	picture = "Portrait_Russia_Alexei.dds"
+	name = "Per Albin Hansson"
+	desc = "POLITICS_PER_ALBIN_HANSSON_DESC"
+	picture = "Portrait_Per_Albin_Hansson.tga"
 	expire = "1965.1.1"
-	ideology = centrism
+	ideology = social_democratism_ideology
 	traits = {
-		popular_figurehead
+
 	}
-} 
+}
