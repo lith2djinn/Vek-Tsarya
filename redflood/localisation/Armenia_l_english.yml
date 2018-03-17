@@ -1,44 +1,44 @@
 ﻿l_english: 
 #COUNTRY NAME# 
-ARM_vanguard_socialism:0 "Country"
-ARM_vanguard_socialism_DEF:0 "Country"
-ARM_vanguard_socialism_ADJ:0 "Countryn"
+ARM_vanguard_socialism:0 "Armenia"
+ARM_vanguard_socialism_DEF:0 "Armenia"
+ARM_vanguard_socialism_ADJ:0 "Armenian"
 
-ARM_libertarian_socialism:0 "Country"
-ARM_libertarian_socialism_DEF:0 "Country"
-ARM_libertarian_socialism_ADJ:0 "Countryn"
+ARM_libertarian_socialism:0 "Armenia"
+ARM_libertarian_socialism_DEF:0 "Armenia"
+ARM_libertarian_socialism_ADJ:0 "Armenian"
 
-ARM_revisionist_socialism:0 "Country"
-ARM_revisionist_socialism_DEF:0 "Country"
-ARM_revisionist_socialism_ADJ:0 "Countryn"
+ARM_revisionist_socialism:0 "Armenia"
+ARM_revisionist_socialism_DEF:0 "Armenia"
+ARM_revisionist_socialism_ADJ:0 "Armenian"
 
-ARM_social_democratism:0 "Country"
-ARM_social_democratism_DEF:0 "Country"
-ARM_social_democratism_ADJ:0 "Countryn"
+ARM_social_democratism:0 "Armenia"
+ARM_social_democratism_DEF:0 "Armenia"
+ARM_social_democratism_ADJ:0 "Armenian"
 
-ARM_social_liberalism:0 "Country"
-ARM_social_liberalism_DEF:0 "Country"
-ARM_social_liberalism_ADJ:0 "Countryn"
+ARM_social_liberalism:0 "Armenia"
+ARM_social_liberalism_DEF:0 "Armenia"
+ARM_social_liberalism_ADJ:0 "Armenian"
 
-ARM_market_liberalism:0 "Country"
-ARM_market_liberalism_DEF:0 "Country"
-ARM_market_liberalism_ADJ:0 "Countryn"
+ARM_market_liberalism:0 "Armenia"
+ARM_market_liberalism_DEF:0 "Armenia"
+ARM_market_liberalism_ADJ:0 "Armenian"
 
-ARM_social_conservatism:0 "Country"
-ARM_social_conservatism_DEF:0 "Country"
-ARM_social_conservatism_ADJ:0 "Countryn"
+ARM_social_conservatism:0 "Armenia"
+ARM_social_conservatism_DEF:0 "Armenia"
+ARM_social_conservatism_ADJ:0 "Armenian"
 
-ARM_right_authoritarianism:0 "Country"
-ARM_right_authoritarianism_DEF:0 "Country"
-ARM_right_authoritarianism_ADJ:0 "Countryn"
+ARM_right_authoritarianism:0 "Armenia"
+ARM_right_authoritarianism_DEF:0 "Armenia"
+ARM_right_authoritarianism_ADJ:0 "Armenian"
 
-ARM_reactionaryism:0 "Country"
-ARM_reactionaryism_DEF:0 "Country"
-ARM_reactionaryism_ADJ:0 "Countryn"
+ARM_reactionaryism:0 "Armenia"
+ARM_reactionaryism_DEF:0 "Armenia"
+ARM_reactionaryism_ADJ:0 "Armenian"
 
-ARM_revolutionary_nationalism:0 "Country"
-ARM_revolutionary_nationalism_DEF:0 "Country"
-ARM_revolutionary_nationalism_ADJ:0 "Countryn"
+ARM_revolutionary_nationalism:0 "Armenia"
+ARM_revolutionary_nationalism_DEF:0 "Armenia"
+ARM_revolutionary_nationalism_ADJ:0 "Armenian"
 #PARTIES# 
 #LEADER DESCRITIONS# 
 #IDEAS# 

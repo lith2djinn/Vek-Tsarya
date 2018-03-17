@@ -1,44 +1,44 @@
 ﻿l_english: 
 #COUNTRY NAME# 
-GER_vanguard_socialism:0 "Country"
-GER_vanguard_socialism_DEF:0 "Country"
-GER_vanguard_socialism_ADJ:0 "Countryn"
+GER_vanguard_socialism:0 "German Socialist Republic"
+GER_vanguard_socialism_DEF:0 "Germany"
+GER_vanguard_socialism_ADJ:0 "German"
 
-GER_libertarian_socialism:0 "Country"
-GER_libertarian_socialism_DEF:0 "Country"
-GER_libertarian_socialism_ADJ:0 "Countryn"
+GER_libertarian_socialism:0 "German Socialist Republic"
+GER_libertarian_socialism_DEF:0 "Germany"
+GER_libertarian_socialism_ADJ:0 "German"
 
-GER_revisionist_socialism:0 "Country"
-GER_revisionist_socialism_DEF:0 "Country"
-GER_revisionist_socialism_ADJ:0 "Countryn"
+GER_revisionist_socialism:0 "German Socialist Republic"
+GER_revisionist_socialism_DEF:0 "Germany"
+GER_revisionist_socialism_ADJ:0 "German"
 
-GER_social_democratism:0 "Country"
-GER_social_democratism_DEF:0 "Country"
-GER_social_democratism_ADJ:0 "Countryn"
+GER_social_democratism:0 "Germany"
+GER_social_democratism_DEF:0 "Germany"
+GER_social_democratism_ADJ:0 "German"
 
-GER_social_liberalism:0 "Country"
-GER_social_liberalism_DEF:0 "Country"
-GER_social_liberalism_ADJ:0 "Countryn"
+GER_social_liberalism:0 "Germany"
+GER_social_liberalism_DEF:0 "Germany"
+GER_social_liberalism_ADJ:0 "German"
 
-GER_market_liberalism:0 "Country"
-GER_market_liberalism_DEF:0 "Country"
-GER_market_liberalism_ADJ:0 "Countryn"
+GER_market_liberalism:0 "Germany"
+GER_market_liberalism_DEF:0 "Germany"
+GER_market_liberalism_ADJ:0 "German"
 
-GER_social_conservatism:0 "Country"
-GER_social_conservatism_DEF:0 "Country"
-GER_social_conservatism_ADJ:0 "Countryn"
+GER_social_conservatism:0 "Germany"
+GER_social_conservatism_DEF:0 "Germany"
+GER_social_conservatism_ADJ:0 "German"
 
-GER_right_authoritarianism:0 "Country"
-GER_right_authoritarianism_DEF:0 "Country"
-GER_right_authoritarianism_ADJ:0 "Countryn"
+GER_right_authoritarianism:0 "Germany"
+GER_right_authoritarianism_DEF:0 "Germany"
+GER_right_authoritarianism_ADJ:0 "German"
 
-GER_reactionaryism:0 "Country"
-GER_reactionaryism_DEF:0 "Country"
-GER_reactionaryism_ADJ:0 "Countryn"
+GER_reactionaryism:0 "Germany"
+GER_reactionaryism_DEF:0 "Germany"
+GER_reactionaryism_ADJ:0 "German"
 
-GER_revolutionary_nationalism:0 "Country"
-GER_revolutionary_nationalism_DEF:0 "Country"
-GER_revolutionary_nationalism_ADJ:0 "Countryn"
+GER_revolutionary_nationalism:0 "Germany"
+GER_revolutionary_nationalism_DEF:0 "Germany"
+GER_revolutionary_nationalism_ADJ:0 "German"
 #PARTIES# 
 #LEADER DESCRITIONS# 
 #IDEAS# 

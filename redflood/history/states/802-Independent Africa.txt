@@ -5,12 +5,12 @@ state={
 		1975 2001 2044 2056 2068 5101 7930 7939 7950 7954 7983 8028 8071 10788 10836 12707 12851
 	}
 	history={
-		owner = AFR
+		owner = FRA
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
 		}
-		add_core_of = AFR
+		add_core_of = FRA
 
 	}
 	manpower=100

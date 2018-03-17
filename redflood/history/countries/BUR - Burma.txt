@@ -1,4 +1,4 @@
-capital = 640 
+capital = 288 
 
 oob = #
 

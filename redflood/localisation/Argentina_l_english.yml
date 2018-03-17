@@ -1,44 +1,44 @@
 ﻿l_english: 
 #COUNTRY NAME# 
-ARG_vanguard_socialism:0 "Country"
-ARG_vanguard_socialism_DEF:0 "Country"
-ARG_vanguard_socialism_ADJ:0 "Countryn"
+ARG_vanguard_socialism:0 "Argentina"
+ARG_vanguard_socialism_DEF:0 "Argentina"
+ARG_vanguard_socialism_ADJ:0 "Argentinean"
 
-ARG_libertarian_socialism:0 "Country"
-ARG_libertarian_socialism_DEF:0 "Country"
-ARG_libertarian_socialism_ADJ:0 "Countryn"
+ARG_libertarian_socialism:0 "Argentina"
+ARG_libertarian_socialism_DEF:0 "Argentina"
+ARG_libertarian_socialism_ADJ:0 "Argentinean"
 
-ARG_revisionist_socialism:0 "Country"
-ARG_revisionist_socialism_DEF:0 "Country"
-ARG_revisionist_socialism_ADJ:0 "Countryn"
+ARG_revisionist_socialism:0 "Argentina"
+ARG_revisionist_socialism_DEF:0 "Argentina"
+ARG_revisionist_socialism_ADJ:0 "Argentinean"
 
-ARG_social_democratism:0 "Country"
-ARG_social_democratism_DEF:0 "Country"
-ARG_social_democratism_ADJ:0 "Countryn"
+ARG_social_democratism:0 "Argentina"
+ARG_social_democratism_DEF:0 "Argentina"
+ARG_social_democratism_ADJ:0 "Argentinean"
 
-ARG_social_liberalism:0 "Country"
-ARG_social_liberalism_DEF:0 "Country"
-ARG_social_liberalism_ADJ:0 "Countryn"
+ARG_social_liberalism:0 "Argentina"
+ARG_social_liberalism_DEF:0 "Argentina"
+ARG_social_liberalism_ADJ:0 "Argentinean"
 
-ARG_market_liberalism:0 "Country"
-ARG_market_liberalism_DEF:0 "Country"
-ARG_market_liberalism_ADJ:0 "Countryn"
+ARG_market_liberalism:0 "Argentina"
+ARG_market_liberalism_DEF:0 "Argentina"
+ARG_market_liberalism_ADJ:0 "Argentinean"
 
-ARG_social_conservatism:0 "Country"
-ARG_social_conservatism_DEF:0 "Country"
-ARG_social_conservatism_ADJ:0 "Countryn"
+ARG_social_conservatism:0 "Argentina"
+ARG_social_conservatism_DEF:0 "Argentina"
+ARG_social_conservatism_ADJ:0 "Argentinean"
 
-ARG_right_authoritarianism:0 "Country"
-ARG_right_authoritarianism_DEF:0 "Country"
-ARG_right_authoritarianism_ADJ:0 "Countryn"
+ARG_right_authoritarianism:0 "Argentina"
+ARG_right_authoritarianism_DEF:0 "Argentina"
+ARG_right_authoritarianism_ADJ:0 "Argentinean"
 
-ARG_reactionaryism:0 "Country"
-ARG_reactionaryism_DEF:0 "Country"
-ARG_reactionaryism_ADJ:0 "Countryn"
+ARG_reactionaryism:0 "Argentina"
+ARG_reactionaryism_DEF:0 "Argentina"
+ARG_reactionaryism_ADJ:0 "Argentinean"
 
-ARG_revolutionary_nationalism:0 "Country"
-ARG_revolutionary_nationalism_DEF:0 "Country"
-ARG_revolutionary_nationalism_ADJ:0 "Countryn"
+ARG_revolutionary_nationalism:0 "Argentina"
+ARG_revolutionary_nationalism_DEF:0 "Argentina"
+ARG_revolutionary_nationalism_ADJ:0 "Argentinean"
 #PARTIES# 
 #LEADER DESCRITIONS# 
 #IDEAS# 

@@ -71,7 +71,8 @@ set_politics = {
 
 set_national_unity = 0.75
 
-create_country_leader = {
+ 
+add_state_claim = 799	create_country_leader = {
 	name = "Albert I"
 	desc = "POLITICS_KING_ALBERT_DESC"
 	picture = "Portrait_Wallonia_King_Albert.dds"

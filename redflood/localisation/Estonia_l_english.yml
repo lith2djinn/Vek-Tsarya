@@ -1,44 +1,44 @@
 ﻿l_english: 
 #COUNTRY NAME# 
-EST_vanguard_socialism:0 "Country"
-EST_vanguard_socialism_DEF:0 "Country"
-EST_vanguard_socialism_ADJ:0 "Countryn"
+EST_vanguard_socialism:0 "Estonia"
+EST_vanguard_socialism_DEF:0 "Estonia"
+EST_vanguard_socialism_ADJ:0 "Estonian"
 
-EST_libertarian_socialism:0 "Country"
-EST_libertarian_socialism_DEF:0 "Country"
-EST_libertarian_socialism_ADJ:0 "Countryn"
+EST_libertarian_socialism:0 "Estonia"
+EST_libertarian_socialism_DEF:0 "Estonia"
+EST_libertarian_socialism_ADJ:0 "Estonian"
 
-EST_revisionist_socialism:0 "Country"
-EST_revisionist_socialism_DEF:0 "Country"
-EST_revisionist_socialism_ADJ:0 "Countryn"
+EST_revisionist_socialism:0 "Estonia"
+EST_revisionist_socialism_DEF:0 "Estonia"
+EST_revisionist_socialism_ADJ:0 "Estonian"
 
-EST_social_democratism:0 "Country"
-EST_social_democratism_DEF:0 "Country"
-EST_social_democratism_ADJ:0 "Countryn"
+EST_social_democratism:0 "Estonia"
+EST_social_democratism_DEF:0 "Estonia"
+EST_social_democratism_ADJ:0 "Estonian"
 
-EST_social_liberalism:0 "Country"
-EST_social_liberalism_DEF:0 "Country"
-EST_social_liberalism_ADJ:0 "Countryn"
+EST_social_liberalism:0 "Estonia"
+EST_social_liberalism_DEF:0 "Estonia"
+EST_social_liberalism_ADJ:0 "Estonian"
 
-EST_market_liberalism:0 "Country"
-EST_market_liberalism_DEF:0 "Country"
-EST_market_liberalism_ADJ:0 "Countryn"
+EST_market_liberalism:0 "Estonia"
+EST_market_liberalism_DEF:0 "Estonia"
+EST_market_liberalism_ADJ:0 "Estonian"
 
-EST_social_conservatism:0 "Country"
-EST_social_conservatism_DEF:0 "Country"
-EST_social_conservatism_ADJ:0 "Countryn"
+EST_social_conservatism:0 "Estonia"
+EST_social_conservatism_DEF:0 "Estonia"
+EST_social_conservatism_ADJ:0 "Estonian"
 
-EST_right_authoritarianism:0 "Country"
-EST_right_authoritarianism_DEF:0 "Country"
-EST_right_authoritarianism_ADJ:0 "Countryn"
+EST_right_authoritarianism:0 "Estonia"
+EST_right_authoritarianism_DEF:0 "Estonia"
+EST_right_authoritarianism_ADJ:0 "Estonian"
 
-EST_reactionaryism:0 "Country"
-EST_reactionaryism_DEF:0 "Country"
-EST_reactionaryism_ADJ:0 "Countryn"
+EST_reactionaryism:0 "Estonia"
+EST_reactionaryism_DEF:0 "Estonia"
+EST_reactionaryism_ADJ:0 "Estonian"
 
-EST_revolutionary_nationalism:0 "Country"
-EST_revolutionary_nationalism_DEF:0 "Country"
-EST_revolutionary_nationalism_ADJ:0 "Countryn"
+EST_revolutionary_nationalism:0 "Estonia"
+EST_revolutionary_nationalism_DEF:0 "Estonia"
+EST_revolutionary_nationalism_ADJ:0 "Estonian"
 #PARTIES# 
 #LEADER DESCRITIONS# 
 #IDEAS# 

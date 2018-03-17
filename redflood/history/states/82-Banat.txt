@@ -13,13 +13,12 @@ state={
 		owner = YUG
 		buildings = {
 			infrastructure = 5
-			industrial_complex = 2
+			industrial_complex = 1
 		}
-		add_core_of = ROM 
 		add_core_of = YUG
 	}
 
 	provinces={
-		646 662 3649 9606 11592 11608 
+		662 3649 11592 
 	}
 }

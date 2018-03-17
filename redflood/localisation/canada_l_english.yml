@@ -1,44 +1,44 @@
 ﻿l_english: 
 #COUNTRY NAME# 
-CAN_vanguard_socialism:0 "Country"
-CAN_vanguard_socialism_DEF:0 "Country"
-CAN_vanguard_socialism_ADJ:0 "Countryn"
+CAN_vanguard_socialism:0 "Canada"
+CAN_vanguard_socialism_DEF:0 "Canada"
+CAN_vanguard_socialism_ADJ:0 "Canadian"
 
-CAN_libertarian_socialism:0 "Country"
-CAN_libertarian_socialism_DEF:0 "Country"
-CAN_libertarian_socialism_ADJ:0 "Countryn"
+CAN_libertarian_socialism:0 "Canada"
+CAN_libertarian_socialism_DEF:0 "Canada"
+CAN_libertarian_socialism_ADJ:0 "Canadian"
 
-CAN_revisionist_socialism:0 "Country"
-CAN_revisionist_socialism_DEF:0 "Country"
-CAN_revisionist_socialism_ADJ:0 "Countryn"
+CAN_revisionist_socialism:0 "Canada"
+CAN_revisionist_socialism_DEF:0 "Canada"
+CAN_revisionist_socialism_ADJ:0 "Canadian"
 
-CAN_social_democratism:0 "Country"
-CAN_social_democratism_DEF:0 "Country"
-CAN_social_democratism_ADJ:0 "Countryn"
+CAN_social_democratism:0 "Canada"
+CAN_social_democratism_DEF:0 "Canada"
+CAN_social_democratism_ADJ:0 "Canadian"
 
-CAN_social_liberalism:0 "Country"
-CAN_social_liberalism_DEF:0 "Country"
-CAN_social_liberalism_ADJ:0 "Countryn"
+CAN_social_liberalism:0 "Canada"
+CAN_social_liberalism_DEF:0 "Canada"
+CAN_social_liberalism_ADJ:0 "Canadian"
 
-CAN_market_liberalism:0 "Country"
-CAN_market_liberalism_DEF:0 "Country"
-CAN_market_liberalism_ADJ:0 "Countryn"
+CAN_market_liberalism:0 "Canada"
+CAN_market_liberalism_DEF:0 "Canada"
+CAN_market_liberalism_ADJ:0 "Canadian"
 
-CAN_social_conservatism:0 "Country"
-CAN_social_conservatism_DEF:0 "Country"
-CAN_social_conservatism_ADJ:0 "Countryn"
+CAN_social_conservatism:0 "Canada"
+CAN_social_conservatism_DEF:0 "Canada"
+CAN_social_conservatism_ADJ:0 "Canadian"
 
-CAN_right_authoritarianism:0 "Country"
-CAN_right_authoritarianism_DEF:0 "Country"
-CAN_right_authoritarianism_ADJ:0 "Countryn"
+CAN_right_authoritarianism:0 "Canada"
+CAN_right_authoritarianism_DEF:0 "Canada"
+CAN_right_authoritarianism_ADJ:0 "Canadian"
 
-CAN_reactionaryism:0 "Country"
-CAN_reactionaryism_DEF:0 "Country"
-CAN_reactionaryism_ADJ:0 "Countryn"
+CAN_reactionaryism:0 "Canada"
+CAN_reactionaryism_DEF:0 "Canada"
+CAN_reactionaryism_ADJ:0 "Canadian"
 
-CAN_revolutionary_nationalism:0 "Country"
-CAN_revolutionary_nationalism_DEF:0 "Country"
-CAN_revolutionary_nationalism_ADJ:0 "Countryn"
+CAN_revolutionary_nationalism:0 "Canada"
+CAN_revolutionary_nationalism_DEF:0 "Canada"
+CAN_revolutionary_nationalism_ADJ:0 "Canadian"
 #PARTIES# 
 #LEADER DESCRITIONS# 
 #IDEAS# 

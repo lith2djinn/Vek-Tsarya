@@ -1,4 +1,4 @@
-capital = 151
+capital = 3
 
 oob = #
 

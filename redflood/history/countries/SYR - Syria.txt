@@ -1,4 +1,4 @@
-capital = 677
+capital = 554
 
 oob = #
 

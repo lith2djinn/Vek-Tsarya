@@ -1,6 +1,4 @@
-capital = 212
-
-oob = #
+capital = 48oob = #
 
 set_research_slots = 3 
 

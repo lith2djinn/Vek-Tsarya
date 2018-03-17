@@ -1,4 +1,4 @@
-capital = 99
+capital = 37
 
 oob = #
 

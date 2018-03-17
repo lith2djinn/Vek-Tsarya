@@ -1,79 +1,101 @@
 capital = 64
 
-oob = #
+oob = "GER_1936"
 
-set_research_slots = 3 
-
-set_convoys = 175
-
-add_ideas = {
-#
-}
-
+# Starting tech
 set_technology = {
 	infantry_weapons = 1
 	infantry_weapons1 = 1
-	tech_support = 1		
 	tech_recon = 1
+	tech_support = 1		
 	tech_engineers = 1
+	tech_mountaineers = 1
 	motorised_infantry = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	gwtank = 1
+	basic_light_tank = 1
+	improved_light_tank = 1
+	basic_heavy_tank = 1
 	early_fighter = 1
-
+	fighter1 = 1
+	early_bomber = 1
+	tactical_bomber1 = 1
+	strategic_bomber1 = 1
+	CAS1 = 1
+	naval_bomber1 = 1
+	early_submarine = 1
+	basic_submarine = 1
+	early_destroyer = 1
+	basic_destroyer = 1
+	early_light_cruiser = 1
+	basic_light_cruiser = 1
+	early_heavy_cruiser = 1
+	early_battleship = 1
+	basic_battleship = 1
+	early_battlecruiser = 1
+	mobile_warfare = 1
+	trade_interdiction = 1
+	formation_flying = 1
+	synth_oil_experiments = 1
+	transport = 1
 }
+set_research_slots = 4
+set_national_unity = 0.7
 
 
-
+set_convoys = 175
 
 set_politics = {
 
 	parties = {
 		vanguard_socialism = {
-			popularity = 10
+			popularity = 21
 		}
 		libertarian_socialism = {
-			popularity = 10
+			popularity = 52
 		}
 		revisionist_socialism = {
-			popularity = 10
+			popularity = 23
 		}
 		social_democratism = {
-			popularity = 10
+			popularity = 3
 		}
 		social_liberalism = {
-			popularity = 10
+			popularity = 1
 		}
 		market_liberalism = {
-			popularity = 10
+			popularity = 0
 		}
 		social_conservatism = {
-			popularity = 10
+			popularity = 0
 		}
 		right_authoritarianism = {
-			popularity = 10
+			popularity = 0
 		}
 		reactionaryism = {
-			popularity = 10
+			popularity = 0
 		}
 		revolutionary_nationalism = {
-			popularity = 10
+			popularity = 0
 		}
 	}
 	
-	ruling_party = social_liberalism
-	last_election = "1933.10.25"
-	election_frequency = 48
+	ruling_party = libertarian_socialism
+	last_election = "1935.09.19"
 	elections_allowed = no
 }
 
-set_national_unity = 0.5
+add_state_claim = 188 
+add_state_claim = 796
 
 create_country_leader = {
-	name = "Generic Genericson"
-	desc = "POLITICS_ALEXEI_II_DESC"
-	picture = "Portrait_Russia_Alexei.dds"
+	name = "Paul Levi"
+	desc = "POLITICS_PAUL_LEVI_DESC"
+	picture = "Portrait_Germany_Paul_Levi.dds"
 	expire = "1965.1.1"
-	ideology = centrism
+	ideology = council_communism
 	traits = {
-		popular_figurehead
+
 	}
-} 
+}  

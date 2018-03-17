@@ -1,44 +1,44 @@
 ﻿l_english: 
 #COUNTRY NAME# 
-FRA_vanguard_socialism:0 "Country"
-FRA_vanguard_socialism_DEF:0 "Country"
-FRA_vanguard_socialism_ADJ:0 "Countryn"
+FRA_vanguard_socialism:0 "France"
+FRA_vanguard_socialism_DEF:0 "France"
+FRA_vanguard_socialism_ADJ:0 "French"
 
-FRA_libertarian_socialism:0 "Country"
-FRA_libertarian_socialism_DEF:0 "Country"
-FRA_libertarian_socialism_ADJ:0 "Countryn"
+FRA_libertarian_socialism:0 "France"
+FRA_libertarian_socialism_DEF:0 "France"
+FRA_libertarian_socialism_ADJ:0 "French"
 
-FRA_revisionist_socialism:0 "Country"
-FRA_revisionist_socialism_DEF:0 "Country"
-FRA_revisionist_socialism_ADJ:0 "Countryn"
+FRA_revisionist_socialism:0 "France"
+FRA_revisionist_socialism_DEF:0 "France"
+FRA_revisionist_socialism_ADJ:0 "French"
 
-FRA_social_democratism:0 "Country"
-FRA_social_democratism_DEF:0 "Country"
-FRA_social_democratism_ADJ:0 "Countryn"
+FRA_social_democratism:0 "France"
+FRA_social_democratism_DEF:0 "France"
+FRA_social_democratism_ADJ:0 "French"
 
-FRA_social_liberalism:0 "Country"
-FRA_social_liberalism_DEF:0 "Country"
-FRA_social_liberalism_ADJ:0 "Countryn"
+FRA_social_liberalism:0 "France"
+FRA_social_liberalism_DEF:0 "France"
+FRA_social_liberalism_ADJ:0 "French"
 
-FRA_market_liberalism:0 "Country"
-FRA_market_liberalism_DEF:0 "Country"
-FRA_market_liberalism_ADJ:0 "Countryn"
+FRA_market_liberalism:0 "France"
+FRA_market_liberalism_DEF:0 "France"
+FRA_market_liberalism_ADJ:0 "French"
 
-FRA_social_conservatism:0 "Country"
-FRA_social_conservatism_DEF:0 "Country"
-FRA_social_conservatism_ADJ:0 "Countryn"
+FRA_social_conservatism:0 "France"
+FRA_social_conservatism_DEF:0 "France"
+FRA_social_conservatism_ADJ:0 "French"
 
-FRA_right_authoritarianism:0 "Country"
-FRA_right_authoritarianism_DEF:0 "Country"
-FRA_right_authoritarianism_ADJ:0 "Countryn"
+FRA_right_authoritarianism:0 "France"
+FRA_right_authoritarianism_DEF:0 "France"
+FRA_right_authoritarianism_ADJ:0 "French"
 
-FRA_reactionaryism:0 "Country"
-FRA_reactionaryism_DEF:0 "Country"
-FRA_reactionaryism_ADJ:0 "Countryn"
+FRA_reactionaryism:0 "France"
+FRA_reactionaryism_DEF:0 "France"
+FRA_reactionaryism_ADJ:0 "French"
 
-FRA_revolutionary_nationalism:0 "Country"
-FRA_revolutionary_nationalism_DEF:0 "Country"
-FRA_revolutionary_nationalism_ADJ:0 "Countryn"
+FRA_revolutionary_nationalism:0 "France"
+FRA_revolutionary_nationalism_DEF:0 "France"
+FRA_revolutionary_nationalism_ADJ:0 "French"
 #PARTIES# 
 #LEADER DESCRITIONS# 
 #IDEAS# 

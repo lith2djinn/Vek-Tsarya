@@ -1,4 +1,47 @@
-﻿l_english:
-  WLL_reactionaryism:0 "Kingdom of Wallonia"
-  CAN_right_authoritarianism_DEF:0 "Wallonia"
-  CAN_right_authoritarianism_ADJ:0 "Walloon"
+﻿l_english: 
+#COUNTRY NAME# 
+WLL_vanguard_socialism:0 "Wallonia"
+WLL_vanguard_socialism_DEF:0 "Wallonia"
+WLL_vanguard_socialism_ADJ:0 "Walloon"
+
+WLL_libertarian_socialism:0 "Wallonia"
+WLL_libertarian_socialism_DEF:0 "Wallonia"
+WLL_libertarian_socialism_ADJ:0 "Walloon"
+
+WLL_revisionist_socialism:0 "Wallonia"
+WLL_revisionist_socialism_DEF:0 "Wallonia"
+WLL_revisionist_socialism_ADJ:0 "Vietnamese"
+
+WLL_social_democratism:0 "Wallonia"
+WLL_social_democratism_DEF:0 "Wallonia"
+WLL_social_democratism_ADJ:0 "Walloon"
+
+WLL_social_liberalism:0 "Wallonia"
+WLL_social_liberalism_DEF:0 "Wallonia"
+WLL_social_liberalism_ADJ:0 "Walloon"
+
+WLL_market_liberalism:0 "Wallonia"
+WLL_market_liberalism_DEF:0 "Wallonia"
+WLL_market_liberalism_ADJ:0 "Walloon"
+
+WLL_social_conservatism:0 "Wallonia"
+WLL_social_conservatism_DEF:0 "Wallonia"
+WLL_social_conservatism_ADJ:0 "Walloon"
+
+WLL_right_authoritarianism:0 "Wallonia"
+WLL_right_authoritarianism_DEF:0 "Wallonia"
+WLL_right_authoritarianism_ADJ:0 "Walloon"
+
+WLL_reactionaryism:0 "Kingdom of Wallonia"
+WLL_reactionaryism_DEF:0 "Wallonia"
+WLL_reactionaryism_ADJ:0 "Walloon"
+
+WLL_revolutionary_nationalism:0 "Wallonia"
+WLL_revolutionary_nationalism_DEF:0 "Wallonia"
+WLL_revolutionary_nationalism_ADJ:0 "Walloon"
+#PARTIES# 
+#LEADER DESCRITIONS# 
+#IDEAS# 
+#CUSTOM TOOLTIPS AND FLAGS# 
+#DECISIONS (1.5 Update)# 
+#FOCUSES#

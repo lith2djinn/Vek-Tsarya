@@ -1,44 +1,44 @@
 ﻿l_english: 
 #COUNTRY NAME# 
-LEB_vanguard_socialism:0 "Country"
-LEB_vanguard_socialism_DEF:0 "Country"
-LEB_vanguard_socialism_ADJ:0 "Countryn"
+LEB_vanguard_socialism:0 "Lebanon"
+LEB_vanguard_socialism_DEF:0 "Lebanese"
+LEB_vanguard_socialism_ADJ:0 "Lebanese"
 
-LEB_libertarian_socialism:0 "Country"
-LEB_libertarian_socialism_DEF:0 "Country"
-LEB_libertarian_socialism_ADJ:0 "Countryn"
+LEB_libertarian_socialism:0 "Lebanon"
+LEB_libertarian_socialism_DEF:0 "Lebanon"
+LEB_libertarian_socialism_ADJ:0 "Lebanese"
 
-LEB_revisionist_socialism:0 "Country"
-LEB_revisionist_socialism_DEF:0 "Country"
-LEB_revisionist_socialism_ADJ:0 "Countryn"
+LEB_revisionist_socialism:0 "Lebanon"
+LEB_revisionist_socialism_DEF:0 "Lebanon"
+LEB_revisionist_socialism_ADJ:0 "Lebanese"
 
-LEB_social_democratism:0 "Country"
-LEB_social_democratism_DEF:0 "Country"
-LEB_social_democratism_ADJ:0 "Countryn"
+LEB_social_democratism:0 "Lebanon"
+LEB_social_democratism_DEF:0 "Lebanon"
+LEB_social_democratism_ADJ:0 "Lebanese"
 
-LEB_social_liberalism:0 "Country"
-LEB_social_liberalism_DEF:0 "Country"
-LEB_social_liberalism_ADJ:0 "Countryn"
+LEB_social_liberalism:0 "Lebanon"
+LEB_social_liberalism_DEF:0 "Lebanon"
+LEB_social_liberalism_ADJ:0 "Lebanese"
 
-LEB_market_liberalism:0 "Country"
-LEB_market_liberalism_DEF:0 "Country"
-LEB_market_liberalism_ADJ:0 "Countryn"
+LEB_market_liberalism:0 "Lebanon"
+LEB_market_liberalism_DEF:0 "Lebanon"
+LEB_market_liberalism_ADJ:0 "Lebanese"
 
-LEB_social_conservatism:0 "Country"
-LEB_social_conservatism_DEF:0 "Country"
-LEB_social_conservatism_ADJ:0 "Countryn"
+LEB_social_conservatism:0 "Lebanon"
+LEB_social_conservatism_DEF:0 "Lebanon"
+LEB_social_conservatism_ADJ:0 "Lebanese"
 
-LEB_right_authoritarianism:0 "Country"
-LEB_right_authoritarianism_DEF:0 "Country"
-LEB_right_authoritarianism_ADJ:0 "Countryn"
+LEB_right_authoritarianism:0 "Lebanon"
+LEB_right_authoritarianism_DEF:0 "Lebanon"
+LEB_right_authoritarianism_ADJ:0 "Lebanese"
 
-LEB_reactionaryism:0 "Country"
-LEB_reactionaryism_DEF:0 "Country"
-LEB_reactionaryism_ADJ:0 "Countryn"
+LEB_reactionaryism:0 "Lebanon"
+LEB_reactionaryism_DEF:0 "Lebanon"
+LEB_reactionaryism_ADJ:0 "Lebanese"
 
-LEB_revolutionary_nationalism:0 "Country"
-LEB_revolutionary_nationalism_DEF:0 "Country"
-LEB_revolutionary_nationalism_ADJ:0 "Countryn"
+LEB_revolutionary_nationalism:0 "Lebanon"
+LEB_revolutionary_nationalism_DEF:0 "Lebanon"
+LEB_revolutionary_nationalism_ADJ:0 "Lebanese"
 #PARTIES# 
 #LEADER DESCRITIONS# 
 #IDEAS# 

@@ -1,4 +1,4 @@
-capital = 155
+capital = 43
 
 oob = #
 
@@ -59,7 +59,7 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = social_liberalism
+	ruling_party = vanguard_socialism
 	last_election = "1933.10.25"
 	election_frequency = 48
 	elections_allowed = no
@@ -72,7 +72,7 @@ create_country_leader = {
 	desc = "POLITICS_ALEXEI_II_DESC"
 	picture = "Portrait_Russia_Alexei.dds"
 	expire = "1965.1.1"
-	ideology = centrism
+	ideology = bolshevism
 	traits = {
 		popular_figurehead
 	}
