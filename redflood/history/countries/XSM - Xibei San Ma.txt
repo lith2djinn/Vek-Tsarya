@@ -1,4 +1,4 @@
-﻿capital = 604
+﻿capital = 283
 
 oob = "XSM_1936"
 
@@ -12,15 +12,15 @@ set_politics = {
 
 	parties = {
 		reactionaryism = {
-			popularity = 50
+			popularity = 20
 		}
 
 		revolutionary_nationalism = {
-			popularity = 0
+			popularity = 20
 		}
 
 		right_authoritarianism = {
-			popularity = 40
+			popularity = 50
 		}
 
 		vanguard_socialism = {
@@ -48,7 +48,7 @@ set_politics = {
 		}
 	}
 
-	ruling_party = reactionaryism
+	ruling_party = right_authoritarianism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -59,7 +59,7 @@ create_country_leader = {
 	desc = ""
 	picture = "gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
 	expire = "1965.1.1"
-	ideology = reactionary_nationalism
+	ideology = military_dictatorship
 	traits = {
 		#
 	}

@@ -25,11 +25,11 @@ set_politics = {
 		}
 
 		libertarian_socialism = {
-			popularity = 2
+			popularity = 25
 		}
 
 		social_conservatism = {
-			popularity = 25
+			popularity = 2
 		}
 
 		market_liberalism = {
