@@ -21,7 +21,7 @@
   STATE_763:0 "Austrian Sudatenland"
   STATE_764:0 "Setsen"
   STATE_765:0 "Gobi"
- STATE_766:0 "Outer Quebec" 
+ STATE_766:0 "Outer Quebec"
   STATE_767:0 "Nanyang"
   STATE_768:0 "Peninsular Shandong"
   STATE_769:0 "Cote-Nord"
@@ -87,4 +87,8 @@
   STATE_829:0 "Keijo"
   STATE_830:0 "Pyongyang"
   STATE_831:0 "Singapore"
-
+  STATE_832:0 "Southwestern New Guinea"
+  STATE_833:0 "Northern Sumatra"
+  STATE_834:0 "East Java"
+  STATE_835:0 "Pontianak"
+  STATE_836:0 "Wuzhou"

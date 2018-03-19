@@ -1,48 +1,47 @@
-﻿l_english: 
-#COUNTRY NAME# 
-SHA_vanguard_socialism:0 "Country"
-SHA_vanguard_socialism_DEF:0 "Country"
-SHA_vanguard_socialism_ADJ:0 "Countryn"
+﻿l_english:
+#COUNTRY NAME#
+SHA_vanguard_socialism:0 "Jiangnan Commune"
+SHA_vanguard_socialism_DEF:0 "Jiangnan Commune"
+SHA_vanguard_socialism_ADJ:0 "Jiangnan"
 
-SHA_libertarian_socialism:0 "Country"
-SHA_libertarian_socialism_DEF:0 "Country"
-SHA_libertarian_socialism_ADJ:0 "Countryn"
+SHA_libertarian_socialism:0 "Jiangnan Commune"
+SHA_libertarian_socialism_DEF:0 "Jiangnan Commune"
+SHA_libertarian_socialism_ADJ:0 "Jiangnan"
 
-SHA_revisionist_socialism:0 "Country"
-SHA_revisionist_socialism_DEF:0 "Country"
-SHA_revisionist_socialism_ADJ:0 "Countryn"
+SHA_revisionist_socialism:0 "Jiangnan Commune"
+SHA_revisionist_socialism_DEF:0 "Jiangnan Commune"
+SHA_revisionist_socialism_ADJ:0 "Jiangnan"
 
-SHA_social_democratism:0 "Country"
-SHA_social_democratism_DEF:0 "Country"
-SHA_social_democratism_ADJ:0 "Countryn"
+SHA_social_democratism:0 "Jiangsu Clique"
+SHA_social_democratism_DEF:0 "Jiangsu Clique"
+SHA_social_democratism_ADJ:0 "Jiangnan"
 
-SHA_social_liberalism:0 "Country"
-SHA_social_liberalism_DEF:0 "Country"
-SHA_social_liberalism_ADJ:0 "Countryn"
+SHA_social_liberalism:0 "Jiangsu Clique"
+SHA_social_liberalism_DEF:0 "Jiangsu Clique"
+SHA_social_liberalism_ADJ:0 "Jiangnan"
 
-SHA_market_liberalism:0 "Country"
-SHA_market_liberalism_DEF:0 "Country"
-SHA_market_liberalism_ADJ:0 "Countryn"
+SHA_market_liberalism:0 "Jiangsu Clique"
+SHA_market_liberalism_DEF:0 "Jiangsu Clique"
+SHA_market_liberalism_ADJ:0 "Jiangnan"
 
-SHA_social_conservatism:0 "Country"
-SHA_social_conservatism_DEF:0 "Country"
-SHA_social_conservatism_ADJ:0 "Countryn"
+SHA_social_conservatism:0 "Jiangsu Clique"
+SHA_social_conservatism_DEF:0 "Jiangsu Clique"
+SHA_social_conservatism_ADJ:0 "Jiangnan"
 
-SHA_right_authoritarianism:0 "Country"
-SHA_right_authoritarianism_DEF:0 "Country"
-SHA_right_authoritarianism_ADJ:0 "Countryn"
+SHA_right_authoritarianism:0 "Jiangsu Clique"
+SHA_right_authoritarianism_DEF:0 "Jiangsu Clique"
+SHA_right_authoritarianism_ADJ:0 "Jiangnan"
 
-SHA_reactionaryism:0 "Country"
-SHA_reactionaryism_DEF:0 "Country"
-SHA_reactionaryism_ADJ:0 "Countryn"
+SHA_reactionaryism:0 "Jiangsu Clique"
+SHA_reactionaryism_DEF:0 "Jiangsu Clique"
+SHA_reactionaryism_ADJ:0 "Jiangnan"
 
-SHA_revolutionary_nationalism:0 "Country"
-SHA_revolutionary_nationalism_DEF:0 "Country"
-SHA_revolutionary_nationalism_ADJ:0 "Countryn"
-#PARTIES# 
-#LEADER DESCRITIONS# 
-#IDEAS# 
-#CUSTOM TOOLTIPS AND FLAGS# 
-#DECISIONS (1.5 Update)# 
+SHA_revolutionary_nationalism:0 "Wu State"
+SHA_revolutionary_nationalism_DEF:0 "Wu State"
+SHA_revolutionary_nationalism_ADJ:0 "Wu"
+#PARTIES#
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
 #FOCUSES#
-
