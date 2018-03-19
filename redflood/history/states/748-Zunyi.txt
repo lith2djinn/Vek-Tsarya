@@ -7,13 +7,13 @@ state=
 	state_category = rural
 	history=
 	{
-		owner = SZC
-		add_core_of = SZC
+		owner = YUN
+		add_core_of = YUN
 		buildings = {
 			infrastructure = 3
 		}
 	}
 	provinces={
-		1010 4141 4325 4431 9939 10763 11972 5072 10819 12841
+		1010 4141 4325 4431 9939 10763 11972
 	}
 }
